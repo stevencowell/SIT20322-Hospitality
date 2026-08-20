@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="task-1-16-waste-reflection-title task-1-16-waste-reflection-desc" data-layout="hierarchy-loop">
+<title id="task-1-16-waste-reflection-title">Prevent first, separate safely, learn from the cause</title>
+<desc id="task-1-16-waste-reflection-desc">Kitchen waste is prevented first, separated through authorised streams, recorded honestly and traced back to one production improvement. A descending hierarchy begins with Plan yield and prevent, then authorised protection or use, followed by local recycling or organics and safe disposal. A feedback arrow from the waste record identifies cause and returns one action to Ordering, Mise en place, Preparation, Storage or Portioning.</desc>
+<defs><marker id="arrow" markerUnits="userSpaceOnUse" viewBox="0 0 14 10" refX="13" refY="5" markerWidth="14" markerHeight="10" orient="auto-start-reverse"><path d="M 0 0 L 14 5 L 0 10 Z" fill="#52666d" stroke="none"/></marker></defs>
+<rect x="0" y="0" width="1200" height="700" rx="0" fill="#eef6f6" stroke="#eef6f6" stroke-width="0"/>
+<rect x="0" y="0" width="1200" height="100" rx="0" fill="#073d48" stroke="#073d48" stroke-width="0"/>
+<text x="40" y="62.92" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="38" font-weight="800" fill="#ffffff"><tspan x="40" dy="0">Prevent first, separate safely, learn from the cause</tspan></text>
+<circle cx="55" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="55" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="55" dy="0">1</tspan></text>
+<rect x="82" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="245" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="245" dy="0">Prevent waste first</tspan></text>
+<circle cx="445" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="445" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="445" dy="0">2</tspan></text>
+<rect x="472" y="115" width="326" height="64" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="635" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="635" dy="0">Use local hierarchy</tspan></text>
+<circle cx="835" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="835" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="835" dy="0">3</tspan></text>
+<rect x="862" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="1025" y="141.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="1025" dy="0">Separate without new</tspan><tspan x="1025" dy="28">hazard</tspan></text>
+<rect x="40" y="215" width="720" height="62" rx="16" fill="#e5f1f2" stroke="#0b5261" stroke-width="3"/>
+<text x="400" y="254.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="400" dy="0">PLAN YIELD + PREVENT</tspan></text>
+<rect x="95" y="293" width="610" height="62" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="400" y="332.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="400" dy="0">PROTECT / USE AS AUTHORISED</tspan></text>
+<rect x="150" y="371" width="500" height="62" rx="16" fill="#e5f1f2" stroke="#0b5261" stroke-width="3"/>
+<text x="400" y="410.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="400" dy="0">LOCAL RECYCLING / ORGANICS</tspan></text>
+<rect x="205" y="449" width="390" height="62" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="400" y="488.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="400" dy="0">SAFE DISPOSAL</tspan></text>
+<rect x="825" y="235" width="340" height="180" rx="16" fill="#ffffff" stroke="#2d6980" stroke-width="5"/>
+<text x="995" y="318.68" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="700" fill="#132a31"><tspan x="995" dy="0">WASTE RECORD: item +</tspan><tspan x="995" dy="31">amount + cause</tspan></text>
+<path d="M 995 420 C 995 470 920 500 820 500" fill="none" stroke="#2d6980" stroke-width="5" marker-end="url(#arrow)"/>
+<text x="925" y="533.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#2d6980"><tspan x="925" dy="0">RETURN ONE IMPROVEMENT TO</tspan></text>
+<rect x="55" y="575" width="200" height="56" rx="24" fill="#ffffff" stroke="#17663e" stroke-width="3"/>
+<text x="155" y="611.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="155" dy="0">ORDERING</tspan></text>
+<rect x="280" y="575" width="200" height="56" rx="24" fill="#ffffff" stroke="#17663e" stroke-width="3"/>
+<text x="380" y="611.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="380" dy="0">MISE EN PLACE</tspan></text>
+<rect x="505" y="575" width="200" height="56" rx="24" fill="#ffffff" stroke="#17663e" stroke-width="3"/>
+<text x="605" y="611.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="605" dy="0">PREPARATION</tspan></text>
+<rect x="730" y="575" width="200" height="56" rx="24" fill="#ffffff" stroke="#17663e" stroke-width="3"/>
+<text x="830" y="611.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="830" dy="0">STORAGE</tspan></text>
+<rect x="955" y="575" width="200" height="56" rx="24" fill="#ffffff" stroke="#17663e" stroke-width="3"/>
+<text x="1055" y="611.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="1055" dy="0">PORTIONING</tspan></text>
+<path d="M 28 660 L 1172 660" fill="none" stroke="#8da8ad" stroke-width="2"/>
+<text x="1165" y="686.16" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#52666d"><tspan x="1165" dy="0">TASK-1 · MODULE 16 · INSTRUCTIONAL VISUAL</tspan></text>
+</svg>

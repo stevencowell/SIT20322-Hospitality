@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="task-1-02-whs-responsibilities-title task-1-02-whs-responsibilities-desc" data-layout="table">
+<title id="task-1-02-whs-responsibilities-title">Who acts, who decides and who must know</title>
+<desc id="task-1-02-whs-responsibilities-desc">Learner actions, authorised decisions and shared communication connect across common kitchen safety situations. Three connected columns show Learner actions, Responsible-person decisions and Shared communication. Scenario arrows for training, faulty equipment, incident and procedure change demonstrate how responsibility moves without being abandoned.</desc>
+<defs><marker id="arrow" markerUnits="userSpaceOnUse" viewBox="0 0 14 10" refX="13" refY="5" markerWidth="14" markerHeight="10" orient="auto-start-reverse"><path d="M 0 0 L 14 5 L 0 10 Z" fill="#52666d" stroke="none"/></marker></defs>
+<rect x="0" y="0" width="1200" height="700" rx="0" fill="#eef6f6" stroke="#eef6f6" stroke-width="0"/>
+<rect x="0" y="0" width="1200" height="100" rx="0" fill="#073d48" stroke="#073d48" stroke-width="0"/>
+<text x="40" y="62.92" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="38" font-weight="800" fill="#ffffff"><tspan x="40" dy="0">Who acts, who decides and who must know</tspan></text>
+<circle cx="55" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="55" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="55" dy="0">1</tspan></text>
+<rect x="82" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="245" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="245" dy="0">Shared safety system</tspan></text>
+<circle cx="445" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="445" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="445" dy="0">2</tspan></text>
+<rect x="472" y="115" width="326" height="64" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="635" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="635" dy="0">Question uncertainty</tspan></text>
+<circle cx="835" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="835" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="835" dy="0">3</tspan></text>
+<rect x="862" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="1025" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="1025" dy="0">Training sets authority</tspan></text>
+<rect x="25" y="205" width="190" height="52" rx="6" fill="#073d48" stroke="#073d48" stroke-width="3"/>
+<text x="120" y="239.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#ffffff"><tspan x="120" dy="0">Situation</tspan></text>
+<rect x="215" y="205" width="275" height="52" rx="6" fill="#073d48" stroke="#073d48" stroke-width="3"/>
+<text x="352.5" y="239.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#ffffff"><tspan x="352.5" dy="0">Learner action</tspan></text>
+<rect x="490" y="205" width="315" height="52" rx="6" fill="#073d48" stroke="#073d48" stroke-width="3"/>
+<text x="647.5" y="239.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#ffffff"><tspan x="647.5" dy="0">Authorised decision</tspan></text>
+<rect x="805" y="205" width="370" height="52" rx="6" fill="#073d48" stroke="#073d48" stroke-width="3"/>
+<text x="990" y="239.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#ffffff"><tspan x="990" dy="0">Shared message</tspan></text>
+<rect x="25" y="257" width="190" height="88" rx="4" fill="#eef6f6" stroke="#8da8ad" stroke-width="3"/>
+<text x="120" y="309.84" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#132a31"><tspan x="120" dy="0">New task</tspan></text>
+<rect x="215" y="257" width="275" height="88" rx="4" fill="#eef6f6" stroke="#8da8ad" stroke-width="3"/>
+<text x="352.5" y="309.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="352.5" dy="0">Read + ask</tspan></text>
+<rect x="490" y="257" width="315" height="88" rx="4" fill="#eef6f6" stroke="#8da8ad" stroke-width="3"/>
+<text x="647.5" y="309.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="647.5" dy="0">Training confirmed</tspan></text>
+<rect x="805" y="257" width="370" height="88" rx="4" fill="#eef6f6" stroke="#8da8ad" stroke-width="3"/>
+<text x="990" y="309.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="990" dy="0">Instruction repeated</tspan></text>
+<rect x="25" y="345" width="190" height="88" rx="4" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<text x="120" y="397.84" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#132a31"><tspan x="120" dy="0">Fault found</tspan></text>
+<rect x="215" y="345" width="275" height="88" rx="4" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<text x="352.5" y="397.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="352.5" dy="0">Keep from use</tspan></text>
+<rect x="490" y="345" width="315" height="88" rx="4" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<text x="647.5" y="383" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="647.5" dy="0">Repair or</tspan><tspan x="647.5" dy="29">replacement</tspan></text>
+<rect x="805" y="345" width="370" height="88" rx="4" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<text x="990" y="397.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="990" dy="0">Fault + location</tspan></text>
+<rect x="25" y="433" width="190" height="88" rx="4" fill="#eef6f6" stroke="#8da8ad" stroke-width="3"/>
+<text x="120" y="485.84" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#132a31"><tspan x="120" dy="0">Incident</tspan></text>
+<rect x="215" y="433" width="275" height="88" rx="4" fill="#eef6f6" stroke="#8da8ad" stroke-width="3"/>
+<text x="352.5" y="485.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="352.5" dy="0">Protect + report</tspan></text>
+<rect x="490" y="433" width="315" height="88" rx="4" fill="#eef6f6" stroke="#8da8ad" stroke-width="3"/>
+<text x="647.5" y="485.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="647.5" dy="0">Response led</tspan></text>
+<rect x="805" y="433" width="370" height="88" rx="4" fill="#eef6f6" stroke="#8da8ad" stroke-width="3"/>
+<text x="990" y="485.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="990" dy="0">Facts, not guesses</tspan></text>
+<rect x="25" y="521" width="190" height="88" rx="4" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<text x="120" y="558.84" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#132a31"><tspan x="120" dy="0">Changed</tspan><tspan x="120" dy="30">process</tspan></text>
+<rect x="215" y="521" width="275" height="88" rx="4" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<text x="352.5" y="573.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="352.5" dy="0">Pause + clarify</tspan></text>
+<rect x="490" y="521" width="315" height="88" rx="4" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<text x="647.5" y="573.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="647.5" dy="0">Change approved</tspan></text>
+<rect x="805" y="521" width="370" height="88" rx="4" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<text x="990" y="573.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="990" dy="0">Team updated</tspan></text>
+<path d="M 28 660 L 1172 660" fill="none" stroke="#8da8ad" stroke-width="2"/>
+<text x="1165" y="686.16" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#52666d"><tspan x="1165" dy="0">TASK-1 · MODULE 02 · INSTRUCTIONAL VISUAL</tspan></text>
+</svg>

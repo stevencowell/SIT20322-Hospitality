@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="task-1-07-cleaning-sanitising-title task-1-07-cleaning-sanitising-desc" data-layout="dual-lane">
+<title id="task-1-07-cleaning-sanitising-title">From visible soil to a controlled food-contact surface</title>
+<desc id="task-1-07-cleaning-sanitising-desc">Cleaning and sanitising sequence aligned with chemical-safety checks and a stop-and-report branch for unknown products. The upper lane shows Clear, Clean, Rinse if directed, Sanitise as directed, Dry and Verify. The lower safety lane aligns Product approved, Label and SDS checked, PPE fitted, Food protected, Clean and dirty zones separated, Result recorded. A warning branch captures unknown or unlabelled chemical.</desc>
+<defs><marker id="arrow" markerUnits="userSpaceOnUse" viewBox="0 0 14 10" refX="13" refY="5" markerWidth="14" markerHeight="10" orient="auto-start-reverse"><path d="M 0 0 L 14 5 L 0 10 Z" fill="#52666d" stroke="none"/></marker></defs>
+<rect x="0" y="0" width="1200" height="700" rx="0" fill="#eef6f6" stroke="#eef6f6" stroke-width="0"/>
+<rect x="0" y="0" width="1200" height="100" rx="0" fill="#073d48" stroke="#073d48" stroke-width="0"/>
+<text x="40" y="41.92" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="38" font-weight="800" fill="#ffffff"><tspan x="40" dy="0">From visible soil to a controlled food-contact</tspan><tspan x="40" dy="42">surface</tspan></text>
+<circle cx="55" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="55" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="55" dy="0">1</tspan></text>
+<rect x="82" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="245" y="141.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="245" dy="0">Cleaning + sanitising</tspan><tspan x="245" dy="28">solve different problems</tspan></text>
+<circle cx="445" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="445" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="445" dy="0">2</tspan></text>
+<rect x="472" y="115" width="326" height="64" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="635" y="141.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="635" dy="0">Start from contamination</tspan><tspan x="635" dy="28">risk</tspan></text>
+<circle cx="835" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="835" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="835" dy="0">3</tspan></text>
+<rect x="862" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="1025" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="1025" dy="0">Use label + SDS</tspan></text>
+<rect x="20" y="238" width="150" height="58" rx="24" fill="#073d48" stroke="#073d48" stroke-width="3"/>
+<text x="95" y="275.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#ffffff"><tspan x="95" dy="0">SURFACE</tspan></text>
+<rect x="188" y="220" width="150" height="92" rx="16" fill="#ffffff" stroke="#0b5261" stroke-width="3"/>
+<text x="263" y="274.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="263" dy="0">CLEAR</tspan></text>
+<path d="M 339 266 L 351 266" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="354" y="220" width="150" height="92" rx="16" fill="#ffffff" stroke="#0b5261" stroke-width="3"/>
+<text x="429" y="274.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="429" dy="0">CLEAN</tspan></text>
+<path d="M 505 266 L 517 266" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="520" y="220" width="150" height="92" rx="16" fill="#ffffff" stroke="#0b5261" stroke-width="3"/>
+<text x="595" y="260.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="595" dy="0">RINSE IF</tspan><tspan x="595" dy="28">DIRECTED</tspan></text>
+<path d="M 671 266 L 683 266" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="686" y="220" width="150" height="92" rx="16" fill="#ffffff" stroke="#0b5261" stroke-width="3"/>
+<text x="761" y="260.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="761" dy="0">SANITISE</tspan><tspan x="761" dy="28">AS SHOWN</tspan></text>
+<path d="M 837 266 L 849 266" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="852" y="220" width="150" height="92" rx="16" fill="#ffffff" stroke="#0b5261" stroke-width="3"/>
+<text x="927" y="274.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="927" dy="0">DRY</tspan></text>
+<path d="M 1003 266 L 1015 266" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="1018" y="220" width="150" height="92" rx="16" fill="#ffffff" stroke="#0b5261" stroke-width="3"/>
+<text x="1093" y="274.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="1093" dy="0">VERIFY</tspan></text>
+<rect x="20" y="423" width="150" height="58" rx="24" fill="#073d48" stroke="#073d48" stroke-width="3"/>
+<text x="95" y="460.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#ffffff"><tspan x="95" dy="0">CHEMICAL</tspan></text>
+<rect x="188" y="405" width="150" height="92" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="263" y="445.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="263" dy="0">PRODUCT</tspan><tspan x="263" dy="28">APPROVED</tspan></text>
+<path d="M 339 451 L 351 451" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="354" y="405" width="150" height="92" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="429" y="445.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="429" dy="0">LABEL +</tspan><tspan x="429" dy="28">SDS</tspan></text>
+<path d="M 505 451 L 517 451" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="520" y="405" width="150" height="92" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="595" y="445.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="595" dy="0">PPE</tspan><tspan x="595" dy="28">FITTED</tspan></text>
+<path d="M 671 451 L 683 451" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="686" y="405" width="150" height="92" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="761" y="445.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="761" dy="0">FOOD</tspan><tspan x="761" dy="28">PROTECTED</tspan></text>
+<path d="M 837 451 L 849 451" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="852" y="405" width="150" height="92" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="927" y="431.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="927" dy="0">DIRTY /</tspan><tspan x="927" dy="28">CLEAN</tspan><tspan x="927" dy="28">SEPARATED</tspan></text>
+<path d="M 1003 451 L 1015 451" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="1018" y="405" width="150" height="92" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="1093" y="445.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="1093" dy="0">RESULT</tspan><tspan x="1093" dy="28">RECORDED</tspan></text>
+<rect x="250" y="555" width="700" height="58" rx="24" fill="#fbe9e4" stroke="#8a3a2a" stroke-width="3"/>
+<text x="600" y="593.18" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="700" fill="#132a31"><tspan x="600" dy="0">UNKNOWN OR UNLABELLED → STOP + REPORT</tspan></text>
+<path d="M 28 660 L 1172 660" fill="none" stroke="#8da8ad" stroke-width="2"/>
+<text x="1165" y="686.16" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#52666d"><tspan x="1165" dy="0">TASK-1 · MODULE 07 · INSTRUCTIONAL VISUAL</tspan></text>
+</svg>

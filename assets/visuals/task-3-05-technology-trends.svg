@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="task-3-05-technology-trends-title task-3-05-technology-trends-desc" data-layout="before-after">
+<title id="task-3-05-technology-trends-title">Technology, trends and safer change</title>
+<desc id="task-3-05-technology-trends-desc">Before-and-after hospitality technology workflow showing changed handovers, people and data, alongside evidence, benefits, risks, training, fallback and an authorised trial gate. Two horizontal lanes compare a fictional hospitality workflow before and after a technology change. Side panels show evidence for the trend, affected people and data, benefit, risk, training, fallback and review measure. A small decision gate separates trial from adoption.</desc>
+<defs><marker id="arrow" markerUnits="userSpaceOnUse" viewBox="0 0 14 10" refX="13" refY="5" markerWidth="14" markerHeight="10" orient="auto-start-reverse"><path d="M 0 0 L 14 5 L 0 10 Z" fill="#52666d" stroke="none"/></marker></defs>
+<rect x="0" y="0" width="1200" height="700" rx="0" fill="#eef6f6" stroke="#eef6f6" stroke-width="0"/>
+<rect x="0" y="0" width="1200" height="100" rx="0" fill="#073d48" stroke="#073d48" stroke-width="0"/>
+<text x="40" y="62.92" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="38" font-weight="800" fill="#ffffff"><tspan x="40" dy="0">Technology, trends and safer change</tspan></text>
+<circle cx="55" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="55" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="55" dy="0">1</tspan></text>
+<rect x="82" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="245" y="141.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="245" dy="0">Technology connects</tspan><tspan x="245" dy="28">systems</tspan></text>
+<circle cx="445" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="445" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="445" dy="0">2</tspan></text>
+<rect x="472" y="115" width="326" height="64" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="635" y="141.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="635" dy="0">Trend needs source +</tspan><tspan x="635" dy="28">period</tspan></text>
+<circle cx="835" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="835" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="835" dy="0">3</tspan></text>
+<rect x="862" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="1025" y="141.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="1025" dy="0">Map workflow before</tspan><tspan x="1025" dy="28">judging</tspan></text>
+<text x="600" y="214.52" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="700" fill="#2d6980"><tspan x="600" dy="0">FICTIONAL ORDER-UPDATE WORKFLOW</tspan></text>
+<rect x="20" y="255" width="135" height="58" rx="24" fill="#073d48" stroke="#073d48" stroke-width="3"/>
+<text x="87.5" y="292.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#ffffff"><tspan x="87.5" dy="0">BEFORE</tspan></text>
+<rect x="175" y="240" width="195" height="92" rx="16" fill="#ffffff" stroke="#0b5261" stroke-width="3"/>
+<text x="272.5" y="294.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="272.5" dy="0">ENTER</tspan></text>
+<path d="M 373 286 L 390 286" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="395" y="240" width="195" height="92" rx="16" fill="#ffffff" stroke="#0b5261" stroke-width="3"/>
+<text x="492.5" y="294.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="492.5" dy="0">CHECK</tspan></text>
+<path d="M 593 286 L 610 286" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="615" y="240" width="195" height="92" rx="16" fill="#ffffff" stroke="#0b5261" stroke-width="3"/>
+<text x="712.5" y="294.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="712.5" dy="0">HANDOVER</tspan></text>
+<path d="M 813 286 L 830 286" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="835" y="240" width="195" height="92" rx="16" fill="#ffffff" stroke="#0b5261" stroke-width="3"/>
+<text x="932.5" y="294.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="932.5" dy="0">RECOVER</tspan></text>
+<rect x="20" y="390" width="135" height="58" rx="24" fill="#073d48" stroke="#073d48" stroke-width="3"/>
+<text x="87.5" y="427.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#ffffff"><tspan x="87.5" dy="0">AFTER</tspan></text>
+<rect x="175" y="375" width="195" height="92" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="272.5" y="415.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="272.5" dy="0">TOOL ASSISTS</tspan><tspan x="272.5" dy="28">ENTRY</tspan></text>
+<path d="M 373 421 L 390 421" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="395" y="375" width="195" height="92" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="492.5" y="429.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="492.5" dy="0">WORKER CHECK</tspan></text>
+<path d="M 593 421 L 610 421" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="615" y="375" width="195" height="92" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="712.5" y="415.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="712.5" dy="0">CONFIRMED</tspan><tspan x="712.5" dy="28">HANDOVER</tspan></text>
+<path d="M 813 421 L 830 421" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="835" y="375" width="195" height="92" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="932.5" y="415.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="932.5" dy="0">FALLBACK</tspan><tspan x="932.5" dy="28">RECOVERY</tspan></text>
+<rect x="25" y="500" width="260" height="82" rx="12" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="155" y="530.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="155" dy="0">ACCESS</tspan></text>
+<text x="155" y="565.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#132a31"><tspan x="155" dy="0">Alternative route</tspan></text>
+<rect x="310" y="500" width="260" height="82" rx="12" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="440" y="530.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="440" dy="0">DATA</tspan></text>
+<text x="440" y="565.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#132a31"><tspan x="440" dy="0">Needed data only</tspan></text>
+<rect x="595" y="500" width="260" height="82" rx="12" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="725" y="530.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="725" dy="0">TRAINING</tspan></text>
+<text x="725" y="565.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#132a31"><tspan x="725" dy="0">People + fallback</tspan></text>
+<rect x="880" y="500" width="260" height="82" rx="12" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="1010" y="530.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="1010" dy="0">TRIAL</tspan></text>
+<text x="1010" y="565.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#132a31"><tspan x="1010" dy="0">Evidence + review</tspan></text>
+<rect x="150" y="605" width="900" height="54" rx="24" fill="#fbe9e4" stroke="#8a3a2a" stroke-width="3"/>
+<text x="600" y="641.18" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="700" fill="#132a31"><tspan x="600" dy="0">AUTHORISED DECISION: trial / revise / stop</tspan></text>
+<path d="M 28 660 L 1172 660" fill="none" stroke="#8da8ad" stroke-width="2"/>
+<text x="1165" y="686.16" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#52666d"><tspan x="1165" dy="0">TASK-3 · MODULE 05 · INSTRUCTIONAL VISUAL</tspan></text>
+</svg>

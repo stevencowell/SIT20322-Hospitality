@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="task-1-08-tools-equipment-title task-1-08-tools-equipment-desc" data-layout="cycle">
+<title id="task-1-08-tools-equipment-title">Select to store: the safe equipment loop</title>
+<desc id="task-1-08-tools-equipment-desc">Kitchen equipment moves through selection, inspection, setup, operation, shutdown, cleaning and storage, with faults diverted to reporting. A seven-stage ring shows Select, Inspect, Set up, Operate, Stop, Clean and Store. Fault icons at inspection and operation exit to Keep from use and Report rather than re-entering the loop. Energy, guard, water and work-zone symbols provide visual checkpoints.</desc>
+<defs><marker id="arrow" markerUnits="userSpaceOnUse" viewBox="0 0 14 10" refX="13" refY="5" markerWidth="14" markerHeight="10" orient="auto-start-reverse"><path d="M 0 0 L 14 5 L 0 10 Z" fill="#52666d" stroke="none"/></marker></defs>
+<rect x="0" y="0" width="1200" height="700" rx="0" fill="#eef6f6" stroke="#eef6f6" stroke-width="0"/>
+<rect x="0" y="0" width="1200" height="100" rx="0" fill="#073d48" stroke="#073d48" stroke-width="0"/>
+<text x="40" y="62.92" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="38" font-weight="800" fill="#ffffff"><tspan x="40" dy="0">Select to store: the safe equipment loop</tspan></text>
+<circle cx="55" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="55" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="55" dy="0">1</tspan></text>
+<rect x="82" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="245" y="141.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="245" dy="0">Choose for method +</tspan><tspan x="245" dy="28">quantity</tspan></text>
+<circle cx="445" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="445" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="445" dy="0">2</tspan></text>
+<rect x="472" y="115" width="326" height="64" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="635" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="635" dy="0">Inspect before setup</tspan></text>
+<circle cx="835" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="835" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="835" dy="0">3</tspan></text>
+<rect x="862" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="1025" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="1025" dy="0">Control operating zone</tspan></text>
+<circle cx="560" cy="410" r="92" fill="#073d48" stroke="#073d48" stroke-width="4"/>
+<text x="560" y="403.52" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="700" fill="#ffffff"><tspan x="560" dy="0">SAFE EQUIPMENT</tspan><tspan x="560" dy="32">LOOP</tspan></text>
+<circle cx="560" cy="240" r="62" fill="#ffffff" stroke="#0b5261" stroke-width="4"/>
+<text x="560" y="248.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="560" dy="0">SELECT</tspan></text>
+<path d="M 627.9404953412798 256.85494268105197 L 750.0638938731701 287.15179100296336" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<circle cx="818.0043892144498" cy="304.00673368401533" r="62" fill="#fff5d8" stroke="#d9ab3d" stroke-width="4"/>
+<text x="818.0043892144498" y="312.16673368401536" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="818.0043892144498" dy="0">INSPECT</tspan></text>
+<path d="M 846.3601200648596 368.00636280746505 L 853.3704801695919 383.8289296491237" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<circle cx="881.7262110200018" cy="447.82855877257344" r="62" fill="#ffffff" stroke="#0b5261" stroke-width="4"/>
+<text x="881.7262110200018" y="455.98855877257347" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="881.7262110200018" dy="0">SET UP</tspan></text>
+<path d="M 822.9273735573976 485.8114063889155 L 761.9804713713984 525.1818599270692" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<circle cx="703.1816339087942" cy="563.1647075434113" r="62" fill="#fff5d8" stroke="#d9ab3d" stroke-width="4"/>
+<text x="703.1816339087942" y="571.3247075434113" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="703.1816339087942" dy="0">OPERATE</tspan></text>
+<path d="M 633.1816339087942 563.1647075434113 L 486.8183660912058 563.1647075434113" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<circle cx="416.8183660912058" cy="563.1647075434113" r="62" fill="#ffffff" stroke="#0b5261" stroke-width="4"/>
+<text x="416.8183660912058" y="571.3247075434113" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="416.8183660912058" dy="0">STOP</tspan></text>
+<path d="M 358.0195286286017 525.1818599270692 L 297.0726264426023 485.8114063889155" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<circle cx="238.2737889799982" cy="447.82855877257344" r="62" fill="#fff5d8" stroke="#d9ab3d" stroke-width="4"/>
+<text x="238.2737889799982" y="455.98855877257347" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="238.2737889799982" dy="0">CLEAN</tspan></text>
+<path d="M 266.629519830408 383.8289296491237 L 273.6398799351403 368.00636280746505" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<circle cx="301.9956107855501" cy="304.00673368401533" r="62" fill="#ffffff" stroke="#0b5261" stroke-width="4"/>
+<text x="301.9956107855501" y="312.16673368401536" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="301.9956107855501" dy="0">STORE</tspan></text>
+<path d="M 369.9361061268298 287.15179100296336 L 492.05950465872013 256.85494268105197" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="890" y="480" width="280" height="108" rx="16" fill="#fbe9e4" stroke="#8a3a2a" stroke-width="3"/>
+<text x="1030" y="528" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="1030" dy="0">FAULT → KEEP FROM</tspan><tspan x="1030" dy="29">USE + REPORT</tspan></text>
+<path d="M 820 500 L 885 525" fill="none" stroke="#8a3a2a" stroke-width="5" marker-end="url(#arrow)"/>
+<path d="M 28 660 L 1172 660" fill="none" stroke="#8da8ad" stroke-width="2"/>
+<text x="1165" y="686.16" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#52666d"><tspan x="1165" dy="0">TASK-1 · MODULE 08 · INSTRUCTIONAL VISUAL</tspan></text>
+</svg>

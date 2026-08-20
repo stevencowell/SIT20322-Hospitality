@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="task-4-05-espresso-foundations-title task-4-05-espresso-foundations-desc" data-layout="espresso-schematic">
+<title id="task-4-05-espresso-foundations-title">Espresso foundations: product, equipment and customer language</title>
+<desc id="task-4-05-espresso-foundations-desc">Labelled commercial espresso station identifies the grinder, hopper, group head, portafilter, basket, tamper, steam wand, milk jug and serviceware while directing operating details to teacher and manufacturer instructions. A clean, at-rest commercial station with callouts for grinder, hopper, group head, group handle or portafilter, basket, tamper, steam wand, jug and serviceware, plus a small family map that points to the current recipe card.</desc>
+<defs><marker id="arrow" markerUnits="userSpaceOnUse" viewBox="0 0 14 10" refX="13" refY="5" markerWidth="14" markerHeight="10" orient="auto-start-reverse"><path d="M 0 0 L 14 5 L 0 10 Z" fill="#52666d" stroke="none"/></marker></defs>
+<rect x="0" y="0" width="1200" height="700" rx="0" fill="#eef6f6" stroke="#eef6f6" stroke-width="0"/>
+<rect x="0" y="0" width="1200" height="100" rx="0" fill="#073d48" stroke="#073d48" stroke-width="0"/>
+<text x="40" y="41.92" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="38" font-weight="800" fill="#ffffff"><tspan x="40" dy="0">Espresso foundations: product, equipment and customer</tspan><tspan x="40" dy="42">language</tspan></text>
+<circle cx="55" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="55" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="55" dy="0">1</tspan></text>
+<rect x="82" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="245" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="245" dy="0">Beans + roast shape input</tspan></text>
+<circle cx="445" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="445" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="445" dy="0">2</tspan></text>
+<rect x="472" y="115" width="326" height="64" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="635" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="635" dy="0">Recognise workstation</tspan></text>
+<circle cx="835" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="835" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="835" dy="0">3</tspan></text>
+<rect x="862" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="1025" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="1025" dy="0">Use families, then recipe</tspan></text>
+<rect x="70" y="285" width="175" height="205" rx="18" fill="#e5f1f2" stroke="#0b5261" stroke-width="5"/>
+<path d="M 90 250 H 225 L 210 285 H 105 Z" fill="#fff5d8" stroke="#d9ab3d" stroke-width="5"/>
+<circle cx="155" cy="365" r="38" fill="#ffffff" stroke="#0b5261" stroke-width="4"/>
+<path d="M 190 400 H 285" fill="none" stroke="#0b5261" stroke-width="12"/>
+<rect x="350" y="255" width="470" height="235" rx="18" fill="#ffffff" stroke="#2d6980" stroke-width="6"/>
+<rect x="385" y="290" width="390" height="58" rx="8" fill="#073d48" stroke="#073d48" stroke-width="3"/>
+<circle cx="520" cy="385" r="43" fill="#e5f1f2" stroke="#2d6980" stroke-width="5"/>
+<path d="M 520 428 V 452 H 655" fill="none" stroke="#7b4d25" stroke-width="14"/>
+<rect x="490" y="438" width="62" height="38" rx="5" fill="#ffffff" stroke="#7b4d25" stroke-width="3"/>
+<path d="M 730 362 Q 720 440 760 475" fill="none" stroke="#8a3a2a" stroke-width="8"/>
+<path d="M 385 475 L 785 475" fill="none" stroke="#8da8ad" stroke-width="8"/>
+<path d="M 870 300 H 905 V 380 H 850 V 355 Z" fill="#fff5d8" stroke="#7b4d25" stroke-width="5"/>
+<path d="M 930 390 H 1005 L 1020 480 H 920 Z" fill="#e5f1f2" stroke="#2d6980" stroke-width="5"/>
+<path d="M 930 390 Q 968 360 1005 390" fill="none" stroke="#2d6980" stroke-width="4"/>
+<path d="M 1060 390 H 1124 L 1116 448 Q 1092 460 1068 448 Z" fill="#ffffff" stroke="#17663e" stroke-width="4"/>
+<path d="M 1124 402 C 1152 398 1152 438 1122 435" fill="none" stroke="#17663e" stroke-width="4"/>
+<path d="M 1056 462 L 1138 462" fill="none" stroke="#17663e" stroke-width="4"/>
+<rect x="30" y="195" width="150" height="48" rx="24" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<text x="105" y="227.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="105" dy="0">HOPPER</tspan></text>
+<path d="M 105 243 L 125 250" fill="none" stroke="#52666d" stroke-width="3" stroke-dasharray="6 5"/>
+<rect x="330" y="195" width="190" height="48" rx="24" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<text x="425" y="227.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="425" dy="0">GROUP HEAD</tspan></text>
+<path d="M 425 243 L 520 342" fill="none" stroke="#52666d" stroke-width="3" stroke-dasharray="6 5"/>
+<rect x="850" y="195" width="150" height="48" rx="24" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<text x="925" y="227.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="925" dy="0">TAMPER</tspan></text>
+<path d="M 925 243 L 875 300" fill="none" stroke="#52666d" stroke-width="3" stroke-dasharray="6 5"/>
+<rect x="30" y="500" width="150" height="48" rx="24" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<text x="105" y="532.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="105" dy="0">GRINDER</tspan></text>
+<path d="M 105 500 L 155 465" fill="none" stroke="#52666d" stroke-width="3" stroke-dasharray="6 5"/>
+<rect x="300" y="500" width="140" height="48" rx="24" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<text x="370" y="532.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="370" dy="0">BASKET</tspan></text>
+<path d="M 370 500 L 520 445" fill="none" stroke="#52666d" stroke-width="3" stroke-dasharray="6 5"/>
+<rect x="445" y="500" width="180" height="48" rx="24" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<text x="535" y="532.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="535" dy="0">PORTAFILTER</tspan></text>
+<path d="M 535 500 L 610 450" fill="none" stroke="#52666d" stroke-width="3" stroke-dasharray="6 5"/>
+<rect x="640" y="500" width="170" height="48" rx="24" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<text x="725" y="532.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="725" dy="0">STEAM WAND</tspan></text>
+<path d="M 725 500 L 750 438" fill="none" stroke="#52666d" stroke-width="3" stroke-dasharray="6 5"/>
+<rect x="825" y="500" width="150" height="48" rx="24" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<text x="900" y="532.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="900" dy="0">MILK JUG</tspan></text>
+<path d="M 900 500 L 968 440" fill="none" stroke="#52666d" stroke-width="3" stroke-dasharray="6 5"/>
+<rect x="985" y="500" width="185" height="48" rx="24" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<text x="1077.5" y="532.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="1077.5" dy="0">SERVICEWARE</tspan></text>
+<path d="M 1077.5 500 L 1090 450" fill="none" stroke="#52666d" stroke-width="3" stroke-dasharray="6 5"/>
+<rect x="30" y="575" width="145" height="48" rx="24" fill="#fbe9e4" stroke="#8a3a2a" stroke-width="3"/>
+<text x="102.5" y="607.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="102.5" dy="0">HOT</tspan></text>
+<rect x="180" y="575" width="145" height="48" rx="24" fill="#fbe9e4" stroke="#8a3a2a" stroke-width="3"/>
+<text x="252.5" y="607.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="252.5" dy="0">STEAM</tspan></text>
+<rect x="330" y="575" width="145" height="48" rx="24" fill="#fbe9e4" stroke="#8a3a2a" stroke-width="3"/>
+<text x="402.5" y="607.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="402.5" dy="0">PRESSURE</tspan></text>
+<rect x="480" y="575" width="145" height="48" rx="24" fill="#fbe9e4" stroke="#8a3a2a" stroke-width="3"/>
+<text x="552.5" y="607.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="552.5" dy="0">POWER</tspan></text>
+<rect x="610" y="555" width="560" height="90" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="890" y="580.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="890" dy="0">Exact operation + beverage construction</tspan><tspan x="890" dy="28">→ CURRENT RECIPE / MANUFACTURER /</tspan><tspan x="890" dy="28">TEACHER</tspan></text>
+<path d="M 28 660 L 1172 660" fill="none" stroke="#8da8ad" stroke-width="2"/>
+<text x="1165" y="686.16" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#52666d"><tspan x="1165" dy="0">TASK-4 · MODULE 05 · INSTRUCTIONAL VISUAL</tspan></text>
+</svg>

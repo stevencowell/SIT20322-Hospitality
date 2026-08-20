@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="task-4-04-orders-title task-4-04-orders-desc" data-layout="order-change">
+<title id="task-4-04-orders-title">Orders: listen, record, relay and verify</title>
+<desc id="task-4-04-orders-desc">Order communication trail shows a fictional request recorded, relayed to production, changed in the authorised record, confirmed by the receiver and verified before customer handover. A left-to-right flow from fictional customer request to authorised record, production acknowledgement, service verification and customer follow-up, including a clearly marked change loop.</desc>
+<defs><marker id="arrow" markerUnits="userSpaceOnUse" viewBox="0 0 14 10" refX="13" refY="5" markerWidth="14" markerHeight="10" orient="auto-start-reverse"><path d="M 0 0 L 14 5 L 0 10 Z" fill="#52666d" stroke="none"/></marker></defs>
+<rect x="0" y="0" width="1200" height="700" rx="0" fill="#eef6f6" stroke="#eef6f6" stroke-width="0"/>
+<rect x="0" y="0" width="1200" height="100" rx="0" fill="#073d48" stroke="#073d48" stroke-width="0"/>
+<text x="40" y="62.92" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="38" font-weight="800" fill="#ffffff"><tspan x="40" dy="0">Orders: listen, record, relay and verify</tspan></text>
+<circle cx="55" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="55" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="55" dy="0">1</tspan></text>
+<rect x="82" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="245" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="245" dy="0">Listen for whole request</tspan></text>
+<circle cx="445" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="445" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="445" dy="0">2</tspan></text>
+<rect x="472" y="115" width="326" height="64" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="635" y="141.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="635" dy="0">Use current product</tspan><tspan x="635" dy="28">information</tspan></text>
+<circle cx="835" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="835" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="835" dy="0">3</tspan></text>
+<rect x="862" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="1025" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="1025" dy="0">Write for the next worker</tspan></text>
+<rect x="25" y="215" width="275" height="325" rx="12" fill="#ffffff" stroke="#0b5261" stroke-width="5"/>
+<text x="162" y="264.18" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="700" fill="#132a31"><tspan x="162" dy="0">ORDER A</tspan></text>
+<path d="M 47 292 L 278 292" fill="none" stroke="#8da8ad" stroke-width="3"/>
+<text x="49" y="343.16" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#132a31"><tspan x="49" dy="0">Drink: Item 1</tspan></text>
+<text x="49" y="405.16" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#132a31"><tspan x="49" dy="0">Food: Item 2</tspan></text>
+<text x="49" y="467.16" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#132a31"><tspan x="49" dy="0">Status: confirmed</tspan></text>
+<rect x="900" y="215" width="275" height="325" rx="12" fill="#fff5d8" stroke="#d9ab3d" stroke-width="5"/>
+<text x="1037" y="248.68" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="700" fill="#132a31"><tspan x="1037" dy="0">ORDER A</tspan><tspan x="1037" dy="31">CHANGED</tspan></text>
+<path d="M 922 292 L 1153 292" fill="none" stroke="#8da8ad" stroke-width="3"/>
+<text x="924" y="329.16" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#132a31"><tspan x="924" dy="0">Drink: Item 1 →</tspan><tspan x="924" dy="28">Item 3</tspan></text>
+<text x="924" y="391.16" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#132a31"><tspan x="924" dy="0">Affected item</tspan><tspan x="924" dy="28">marked</tspan></text>
+<text x="924" y="453.16" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#132a31"><tspan x="924" dy="0">Status: update</tspan><tspan x="924" dy="28">pending</tspan></text>
+<rect x="335" y="205" width="530" height="58" rx="16" fill="#e5f1f2" stroke="#17663e" stroke-width="3"/>
+<text x="600" y="242.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="600" dy="0">CUSTOMER REQUEST</tspan></text>
+<path d="M 600 266 L 600 274" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="335" y="277" width="530" height="58" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="600" y="314.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="600" dy="0">AUTHORISED RECORD</tspan></text>
+<path d="M 600 338 L 600 346" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="335" y="349" width="530" height="58" rx="16" fill="#e5f1f2" stroke="#17663e" stroke-width="3"/>
+<text x="600" y="386.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="600" dy="0">PRODUCTION ACKNOWLEDGES</tspan></text>
+<path d="M 600 410 L 600 418" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="335" y="421" width="530" height="58" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="600" y="458.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="600" dy="0">SERVICE VERIFIES</tspan></text>
+<path d="M 600 482 L 600 490" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="335" y="493" width="530" height="58" rx="16" fill="#e5f1f2" stroke="#17663e" stroke-width="3"/>
+<text x="600" y="530.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="600" dy="0">CUSTOMER UPDATED</tspan></text>
+<path d="M 302 365 L 327 365" fill="none" stroke="#0b5261" stroke-width="5" marker-end="url(#arrow)"/>
+<path d="M 895 365 L 873 365" fill="none" stroke="#d9ab3d" stroke-width="5" marker-end="url(#arrow)"/>
+<rect x="205" y="585" width="790" height="58" rx="24" fill="#fbe9e4" stroke="#8a3a2a" stroke-width="3"/>
+<text x="600" y="622.84" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#132a31"><tspan x="600" dy="0">CHANGE → receiver repeats → record updated</tspan></text>
+<path d="M 28 660 L 1172 660" fill="none" stroke="#8da8ad" stroke-width="2"/>
+<text x="1165" y="686.16" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#52666d"><tspan x="1165" dy="0">TASK-4 · MODULE 04 · INSTRUCTIONAL VISUAL</tspan></text>
+</svg>

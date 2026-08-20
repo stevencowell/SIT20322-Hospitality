@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="task-1-09-knife-safety-title task-1-09-knife-safety-desc" data-layout="knife-station">
+<title id="task-1-09-knife-safety-title">The visible knife pathway</title>
+<desc id="task-1-09-knife-safety-desc">A knife remains visible and controlled from selection through cutting, washing and storage, while damage and maintenance are referred to the teacher. A top-view station traces one knife from storage to stable board, controlled cutting zone, visible temporary rest, separate wash point and secure storage. Red crossed paths show bench edge, hidden sink, crowded board and attempted catch. Maintenance exits to Teacher confirmation.</desc>
+<defs><marker id="arrow" markerUnits="userSpaceOnUse" viewBox="0 0 14 10" refX="13" refY="5" markerWidth="14" markerHeight="10" orient="auto-start-reverse"><path d="M 0 0 L 14 5 L 0 10 Z" fill="#52666d" stroke="none"/></marker></defs>
+<rect x="0" y="0" width="1200" height="700" rx="0" fill="#eef6f6" stroke="#eef6f6" stroke-width="0"/>
+<rect x="0" y="0" width="1200" height="100" rx="0" fill="#073d48" stroke="#073d48" stroke-width="0"/>
+<text x="40" y="62.92" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="38" font-weight="800" fill="#ffffff"><tspan x="40" dy="0">The visible knife pathway</tspan></text>
+<circle cx="55" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="55" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="55" dy="0">1</tspan></text>
+<rect x="82" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="245" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="245" dy="0">Match knife to task</tspan></text>
+<circle cx="445" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="445" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="445" dy="0">2</tspan></text>
+<rect x="472" y="115" width="326" height="64" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="635" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="635" dy="0">Inspect; do not repair</tspan></text>
+<circle cx="835" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="835" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="835" dy="0">3</tspan></text>
+<rect x="862" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="1025" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="1025" dy="0">Build a stable zone</tspan></text>
+<rect x="60" y="220" width="790" height="360" rx="24" fill="#ffffff" stroke="#0b5261" stroke-width="5"/>
+<text x="455" y="254.52" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="700" fill="#132a31"><tspan x="455" dy="0">TOP-VIEW WORKSTATION</tspan></text>
+<rect x="90" y="285" width="170" height="90" rx="16" fill="#e5f1f2" stroke="#0b5261" stroke-width="3"/>
+<text x="175" y="324" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="175" dy="0">SECURE</tspan><tspan x="175" dy="29">STORAGE</tspan></text>
+<rect x="310" y="285" width="260" height="190" rx="14" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="440" y="324.18" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="700" fill="#132a31"><tspan x="440" dy="0">STABLE BOARD</tspan></text>
+<path d="M 350 385 L 505 350 L 535 375 L 380 410 Z" fill="#8da8ad" stroke="#132a31" stroke-width="3"/>
+<rect x="340" y="430" width="200" height="48" rx="24" fill="#ffffff" stroke="#17663e" stroke-width="3"/>
+<text x="440" y="462.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="440" dy="0">VISIBLE REST</tspan></text>
+<rect x="610" y="285" width="210" height="95" rx="16" fill="#e5f1f2" stroke="#2d6980" stroke-width="3"/>
+<text x="715" y="326.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="715" dy="0">SEPARATE</tspan><tspan x="715" dy="29">WASH</tspan></text>
+<circle cx="715" cy="450" r="62" fill="#eef6f6" stroke="#2d6980" stroke-width="4"/>
+<text x="715" y="444.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="715" dy="0">SECURE</tspan><tspan x="715" dy="28">RETURN</tspan></text>
+<rect x="885" y="220" width="270" height="62" rx="12" fill="#fbe9e4" stroke="#8a3a2a" stroke-width="3"/>
+<path d="M 900 238 L 926 264" fill="none" stroke="#8a3a2a" stroke-width="5"/>
+<path d="M 926 238 L 900 264" fill="none" stroke="#8a3a2a" stroke-width="5"/>
+<text x="945" y="259.16" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="945" dy="0">BENCH EDGE</tspan></text>
+<rect x="885" y="302" width="270" height="62" rx="12" fill="#fbe9e4" stroke="#8a3a2a" stroke-width="3"/>
+<path d="M 900 320 L 926 346" fill="none" stroke="#8a3a2a" stroke-width="5"/>
+<path d="M 926 320 L 900 346" fill="none" stroke="#8a3a2a" stroke-width="5"/>
+<text x="945" y="341.16" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="945" dy="0">HIDDEN IN SINK</tspan></text>
+<rect x="885" y="384" width="270" height="62" rx="12" fill="#fbe9e4" stroke="#8a3a2a" stroke-width="3"/>
+<path d="M 900 402 L 926 428" fill="none" stroke="#8a3a2a" stroke-width="5"/>
+<path d="M 926 402 L 900 428" fill="none" stroke="#8a3a2a" stroke-width="5"/>
+<text x="945" y="423.16" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="945" dy="0">CROWDED BOARD</tspan></text>
+<rect x="885" y="466" width="270" height="62" rx="12" fill="#fbe9e4" stroke="#8a3a2a" stroke-width="3"/>
+<path d="M 900 484 L 926 510" fill="none" stroke="#8a3a2a" stroke-width="5"/>
+<path d="M 926 484 L 900 510" fill="none" stroke="#8a3a2a" stroke-width="5"/>
+<text x="945" y="505.16" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="945" dy="0">CATCHING KNIFE</tspan></text>
+<rect x="175" y="600" width="850" height="54" rx="24" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="600" y="635.84" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#132a31"><tspan x="600" dy="0">Damage or maintenance → TEACHER CONFIRMATION</tspan></text>
+<path d="M 28 660 L 1172 660" fill="none" stroke="#8da8ad" stroke-width="2"/>
+<text x="1165" y="686.16" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#52666d"><tspan x="1165" dy="0">TASK-1 · MODULE 09 · INSTRUCTIONAL VISUAL</tspan></text>
+</svg>

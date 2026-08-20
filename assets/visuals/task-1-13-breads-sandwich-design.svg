@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="task-1-13-breads-sandwich-design-title task-1-13-breads-sandwich-design-desc" data-layout="matrix">
+<title id="task-1-13-breads-sandwich-design-title">Choose a bread that supports the whole sandwich</title>
+<desc id="task-1-13-breads-sandwich-design-desc">Bread characteristics are matched with filling, service, portion and presentation needs to form a controlled sandwich specification. Rows compare neutral bread characteristics such as structure, moisture tolerance, flavour strength and handling. Columns connect filling texture, service context, portion and presentation. A product-specification panel shows verified information and teacher-confirmation gates.</desc>
+<defs><marker id="arrow" markerUnits="userSpaceOnUse" viewBox="0 0 14 10" refX="13" refY="5" markerWidth="14" markerHeight="10" orient="auto-start-reverse"><path d="M 0 0 L 14 5 L 0 10 Z" fill="#52666d" stroke="none"/></marker></defs>
+<rect x="0" y="0" width="1200" height="700" rx="0" fill="#eef6f6" stroke="#eef6f6" stroke-width="0"/>
+<rect x="0" y="0" width="1200" height="100" rx="0" fill="#073d48" stroke="#073d48" stroke-width="0"/>
+<text x="40" y="62.92" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="38" font-weight="800" fill="#ffffff"><tspan x="40" dy="0">Choose a bread that supports the whole sandwich</tspan></text>
+<circle cx="55" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="55" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="55" dy="0">1</tspan></text>
+<rect x="82" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="245" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="245" dy="0">Bread changes the product</tspan></text>
+<circle cx="445" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="445" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="445" dy="0">2</tspan></text>
+<rect x="472" y="115" width="326" height="64" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="635" y="141.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="635" dy="0">Start from purpose +</tspan><tspan x="635" dy="28">customer</tspan></text>
+<circle cx="835" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="835" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="835" dy="0">3</tspan></text>
+<rect x="862" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="1025" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="1025" dy="0">Balance filling + texture</tspan></text>
+<text x="160" y="229.18" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="700" fill="#132a31"><tspan x="160" dy="0">BREAD EVIDENCE</tspan></text>
+<text x="550" y="229.18" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="700" fill="#132a31"><tspan x="550" dy="0">PRODUCT NEED</tspan></text>
+<rect x="285" y="245" width="140" height="70" rx="6" fill="#073d48" stroke="#073d48" stroke-width="3"/>
+<text x="355" y="274.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#ffffff"><tspan x="355" dy="0">Filling</tspan><tspan x="355" dy="28">texture</tspan></text>
+<rect x="435" y="245" width="140" height="70" rx="6" fill="#073d48" stroke="#073d48" stroke-width="3"/>
+<text x="505" y="274.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#ffffff"><tspan x="505" dy="0">Service</tspan><tspan x="505" dy="28">context</tspan></text>
+<rect x="585" y="245" width="140" height="70" rx="6" fill="#073d48" stroke="#073d48" stroke-width="3"/>
+<text x="655" y="288.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#ffffff"><tspan x="655" dy="0">Portion</tspan></text>
+<rect x="735" y="245" width="140" height="70" rx="6" fill="#073d48" stroke="#073d48" stroke-width="3"/>
+<text x="805" y="288.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#ffffff"><tspan x="805" dy="0">Display</tspan></text>
+<rect x="55" y="325" width="210" height="60" rx="6" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="160" y="363.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="160" dy="0">Structure</tspan></text>
+<rect x="285" y="325" width="140" height="60" rx="4" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="355" y="363.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="355" dy="0">CHECK</tspan></text>
+<rect x="435" y="325" width="140" height="60" rx="4" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<text x="505" y="363.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="505" dy="0">CHECK</tspan></text>
+<rect x="585" y="325" width="140" height="60" rx="4" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="655" y="363.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="655" dy="0">CHECK</tspan></text>
+<rect x="735" y="325" width="140" height="60" rx="4" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<text x="805" y="363.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="805" dy="0">CHECK</tspan></text>
+<rect x="55" y="393" width="210" height="60" rx="6" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="160" y="417.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="160" dy="0">Moisture</tspan><tspan x="160" dy="28">tolerance</tspan></text>
+<rect x="285" y="393" width="140" height="60" rx="4" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<text x="355" y="431.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="355" dy="0">CHECK</tspan></text>
+<rect x="435" y="393" width="140" height="60" rx="4" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="505" y="431.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="505" dy="0">CHECK</tspan></text>
+<rect x="585" y="393" width="140" height="60" rx="4" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<text x="655" y="431.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="655" dy="0">CHECK</tspan></text>
+<rect x="735" y="393" width="140" height="60" rx="4" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="805" y="431.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="805" dy="0">CHECK</tspan></text>
+<rect x="55" y="461" width="210" height="60" rx="6" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="160" y="499.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="160" dy="0">Flavour strength</tspan></text>
+<rect x="285" y="461" width="140" height="60" rx="4" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="355" y="499.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="355" dy="0">CHECK</tspan></text>
+<rect x="435" y="461" width="140" height="60" rx="4" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<text x="505" y="499.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="505" dy="0">CHECK</tspan></text>
+<rect x="585" y="461" width="140" height="60" rx="4" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="655" y="499.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="655" dy="0">CHECK</tspan></text>
+<rect x="735" y="461" width="140" height="60" rx="4" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<text x="805" y="499.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="805" dy="0">CHECK</tspan></text>
+<rect x="55" y="529" width="210" height="60" rx="6" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="160" y="567.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="160" dy="0">Handling</tspan></text>
+<rect x="285" y="529" width="140" height="60" rx="4" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<text x="355" y="567.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="355" dy="0">CHECK</tspan></text>
+<rect x="435" y="529" width="140" height="60" rx="4" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="505" y="567.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="505" dy="0">CHECK</tspan></text>
+<rect x="585" y="529" width="140" height="60" rx="4" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<text x="655" y="567.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="655" dy="0">CHECK</tspan></text>
+<rect x="735" y="529" width="140" height="60" rx="4" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="805" y="567.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="805" dy="0">CHECK</tspan></text>
+<rect x="905" y="245" width="260" height="220" rx="16" fill="#ffffff" stroke="#17663e" stroke-width="5"/>
+<text x="1035" y="347.7" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="30" font-weight="700" fill="#132a31"><tspan x="1035" dy="0">PRODUCT</tspan><tspan x="1035" dy="35">SPECIFICATION</tspan></text>
+<rect x="930" y="480" width="215" height="52" rx="24" fill="#e5f1f2" stroke="#17663e" stroke-width="3"/>
+<text x="1037.5" y="514.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="1037.5" dy="0">Verified source</tspan></text>
+<rect x="930" y="542" width="215" height="52" rx="24" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="1037.5" y="576.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="1037.5" dy="0">Teacher check</tspan></text>
+<path d="M 885 390 L 905 355" fill="none" stroke="#52666d" stroke-width="5" marker-end="url(#arrow)"/>
+<path d="M 28 660 L 1172 660" fill="none" stroke="#8da8ad" stroke-width="2"/>
+<text x="1165" y="686.16" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#52666d"><tspan x="1165" dy="0">TASK-1 · MODULE 13 · INSTRUCTIONAL VISUAL</tspan></text>
+</svg>

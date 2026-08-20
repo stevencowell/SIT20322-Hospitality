@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="task-1-06-food-handler-health-title task-1-06-food-handler-health-desc" data-layout="flow-privacy">
+<title id="task-1-06-food-handler-health-title">When health changes during food work</title>
+<desc id="task-1-06-food-handler-health-desc">Food-handler health concerns lead to stopping work, protecting food, factual reporting and an authorised duty decision, while private medical information stays protected. A decision flow begins with symptom, wound or respiratory event, then moves through Stop handling, Protect affected food, Report facts, Authorised duty decision and Return only when directed. A privacy shield diverts diagnoses and medical documents away from the learning site.</desc>
+<defs><marker id="arrow" markerUnits="userSpaceOnUse" viewBox="0 0 14 10" refX="13" refY="5" markerWidth="14" markerHeight="10" orient="auto-start-reverse"><path d="M 0 0 L 14 5 L 0 10 Z" fill="#52666d" stroke="none"/></marker></defs>
+<rect x="0" y="0" width="1200" height="700" rx="0" fill="#eef6f6" stroke="#eef6f6" stroke-width="0"/>
+<rect x="0" y="0" width="1200" height="100" rx="0" fill="#073d48" stroke="#073d48" stroke-width="0"/>
+<text x="40" y="62.92" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="38" font-weight="800" fill="#ffffff"><tspan x="40" dy="0">When health changes during food work</tspan></text>
+<circle cx="55" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="55" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="55" dy="0">1</tspan></text>
+<rect x="82" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="245" y="141.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="245" dy="0">Health changes task</tspan><tspan x="245" dy="28">safety</tspan></text>
+<circle cx="445" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="445" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="445" dy="0">2</tspan></text>
+<rect x="472" y="115" width="326" height="64" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="635" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="635" dy="0">Report relevant symptoms</tspan></text>
+<circle cx="835" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="835" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="835" dy="0">3</tspan></text>
+<rect x="862" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="1025" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="1025" dy="0">Control cuts + dressings</tspan></text>
+<rect x="45" y="230" width="260" height="86" rx="16" fill="#ffffff" stroke="#0b5261" stroke-width="3"/>
+<text x="175" y="267" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="175" dy="0">SYMPTOM /</tspan><tspan x="175" dy="29">WOUND</tspan></text>
+<circle cx="69" cy="222" r="19" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="69" y="230.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="69" dy="0">1</tspan></text>
+<path d="M 310 273 L 339 273" fill="none" stroke="#52666d" stroke-width="5" marker-end="url(#arrow)"/>
+<rect x="347" y="230" width="260" height="86" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="477" y="281.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="477" dy="0">STOP HANDLING</tspan></text>
+<circle cx="371" cy="222" r="19" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="371" y="230.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="371" dy="0">2</tspan></text>
+<path d="M 612 273 L 641 273" fill="none" stroke="#52666d" stroke-width="5" marker-end="url(#arrow)"/>
+<rect x="649" y="230" width="260" height="86" rx="16" fill="#ffffff" stroke="#0b5261" stroke-width="3"/>
+<text x="779" y="281.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="779" dy="0">PROTECT FOOD</tspan></text>
+<circle cx="673" cy="222" r="19" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="673" y="230.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="673" dy="0">3</tspan></text>
+<path d="M 779 321 L 779 400" fill="none" stroke="#52666d" stroke-width="5" marker-end="url(#arrow)"/>
+<rect x="649" y="408" width="260" height="86" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="779" y="459.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="779" dy="0">REPORT FACTS</tspan></text>
+<circle cx="673" cy="400" r="19" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="673" y="408.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="673" dy="0">4</tspan></text>
+<path d="M 644 451 L 615 451" fill="none" stroke="#52666d" stroke-width="5" marker-end="url(#arrow)"/>
+<rect x="347" y="408" width="260" height="86" rx="16" fill="#ffffff" stroke="#0b5261" stroke-width="3"/>
+<text x="477" y="459.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="477" dy="0">DUTY DECISION</tspan></text>
+<circle cx="371" cy="400" r="19" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="371" y="408.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="371" dy="0">5</tspan></text>
+<path d="M 342 451 L 313 451" fill="none" stroke="#52666d" stroke-width="5" marker-end="url(#arrow)"/>
+<rect x="45" y="408" width="260" height="86" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="175" y="445" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="175" dy="0">RETURN WHEN</tspan><tspan x="175" dy="29">DIRECTED</tspan></text>
+<circle cx="69" cy="400" r="19" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="69" y="408.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="69" dy="0">6</tspan></text>
+<rect x="950" y="235" width="210" height="220" rx="16" fill="#073d48" stroke="#073d48" stroke-width="3"/>
+<text x="1055" y="337.7" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="30" font-weight="700" fill="#ffffff"><tspan x="1055" dy="0">KEEP</tspan><tspan x="1055" dy="35">PRIVATE</tspan></text>
+<rect x="940" y="480" width="230" height="48" rx="24" fill="#fbe9e4" stroke="#8a3a2a" stroke-width="3"/>
+<text x="1055" y="512.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="1055" dy="0">Diagnosis</tspan></text>
+<rect x="940" y="538" width="230" height="48" rx="24" fill="#fbe9e4" stroke="#8a3a2a" stroke-width="3"/>
+<text x="1055" y="570.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="1055" dy="0">Medical details</tspan></text>
+<path d="M 900 350 L 950 350" fill="none" stroke="#8a3a2a" stroke-width="5" marker-end="url(#arrow)"/>
+<path d="M 28 660 L 1172 660" fill="none" stroke="#8da8ad" stroke-width="2"/>
+<text x="1165" y="686.16" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#52666d"><tspan x="1165" dy="0">TASK-1 · MODULE 06 · INSTRUCTIONAL VISUAL</tspan></text>
+</svg>

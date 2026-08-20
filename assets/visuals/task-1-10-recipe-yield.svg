@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="task-1-10-recipe-yield-title task-1-10-recipe-yield-desc" data-layout="equation-gates">
+<title id="task-1-10-recipe-yield-title">Scale the numbers, then test the kitchen plan</title>
+<desc id="task-1-10-recipe-yield-desc">A recipe scaling calculation with units must pass equipment, batch, timing and waste checks before production. The left side shows Original yield, Required yield and Scaling factor with units attached to ingredient rows. A bridge leads to four practical gates: Equipment capacity, Batch method, Timing and Waste. A confirmation marker appears when any gate fails.</desc>
+<defs><marker id="arrow" markerUnits="userSpaceOnUse" viewBox="0 0 14 10" refX="13" refY="5" markerWidth="14" markerHeight="10" orient="auto-start-reverse"><path d="M 0 0 L 14 5 L 0 10 Z" fill="#52666d" stroke="none"/></marker></defs>
+<rect x="0" y="0" width="1200" height="700" rx="0" fill="#eef6f6" stroke="#eef6f6" stroke-width="0"/>
+<rect x="0" y="0" width="1200" height="100" rx="0" fill="#073d48" stroke="#073d48" stroke-width="0"/>
+<text x="40" y="62.92" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="38" font-weight="800" fill="#ffffff"><tspan x="40" dy="0">Scale the numbers, then test the kitchen plan</tspan></text>
+<circle cx="55" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="55" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="55" dy="0">1</tspan></text>
+<rect x="82" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="245" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="245" dy="0">Read the standard recipe</tspan></text>
+<circle cx="445" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="445" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="445" dy="0">2</tspan></text>
+<rect x="472" y="115" width="326" height="64" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="635" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="635" dy="0">Keep units attached</tspan></text>
+<circle cx="835" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="835" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="835" dy="0">3</tspan></text>
+<rect x="862" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="1025" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="1025" dy="0">Yield states output</tspan></text>
+<text x="370" y="224.84" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#0b5261"><tspan x="370" dy="0">KEEP UNITS ATTACHED</tspan></text>
+<rect x="30" y="245" width="190" height="96" rx="16" fill="#ffffff" stroke="#0b5261" stroke-width="3"/>
+<text x="125" y="286.84" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#132a31"><tspan x="125" dy="0">REQUIRED</tspan><tspan x="125" dy="30">YIELD</tspan></text>
+<rect x="232" y="245" width="48" height="96" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="256" y="303.88" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="32" font-weight="700" fill="#132a31"><tspan x="256" dy="0">÷</tspan></text>
+<rect x="292" y="245" width="190" height="96" rx="16" fill="#ffffff" stroke="#0b5261" stroke-width="3"/>
+<text x="387" y="286.84" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#132a31"><tspan x="387" dy="0">ORIGINAL</tspan><tspan x="387" dy="30">YIELD</tspan></text>
+<rect x="494" y="245" width="48" height="96" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="518" y="303.88" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="32" font-weight="700" fill="#132a31"><tspan x="518" dy="0">=</tspan></text>
+<rect x="554" y="245" width="190" height="96" rx="16" fill="#ffffff" stroke="#0b5261" stroke-width="3"/>
+<text x="649" y="286.84" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#132a31"><tspan x="649" dy="0">SCALING</tspan><tspan x="649" dy="30">FACTOR</tspan></text>
+<rect x="30" y="375" width="714" height="82" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="387" y="424.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="387" dy="0">Ingredient → Original unit → Scaled unit</tspan></text>
+<text x="970" y="225.52" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="700" fill="#132a31"><tspan x="970" dy="0">PRODUCTION GATES</tspan></text>
+<rect x="790" y="250" width="180" height="78" rx="24" fill="#ffffff" stroke="#0b5261" stroke-width="3"/>
+<text x="880" y="283.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="880" dy="0">EQUIPMENT</tspan><tspan x="880" dy="28">CAPACITY</tspan></text>
+<rect x="985" y="250" width="180" height="78" rx="24" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="1075" y="297.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="1075" dy="0">BATCH PLAN</tspan></text>
+<rect x="790" y="350" width="180" height="78" rx="24" fill="#ffffff" stroke="#0b5261" stroke-width="3"/>
+<text x="880" y="397.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="880" dy="0">TIMING</tspan></text>
+<rect x="985" y="350" width="180" height="78" rx="24" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="1075" y="397.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="1075" dy="0">WASTE</tspan></text>
+<rect x="140" y="535" width="920" height="68" rx="24" fill="#fbe9e4" stroke="#8a3a2a" stroke-width="3"/>
+<text x="600" y="578.18" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="700" fill="#132a31"><tspan x="600" dy="0">If a gate fails → CONFIRM BEFORE PRODUCTION</tspan></text>
+<path d="M 28 660 L 1172 660" fill="none" stroke="#8da8ad" stroke-width="2"/>
+<text x="1165" y="686.16" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#52666d"><tspan x="1165" dy="0">TASK-1 · MODULE 10 · INSTRUCTIONAL VISUAL</tspan></text>
+</svg>

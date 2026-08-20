@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="task-2-05-products-title task-2-05-products-desc" data-layout="compare">
+<title id="task-2-05-products-title">Explain and match products accurately</title>
+<desc id="task-2-05-products-desc">Two product options are compared using verified features, price, quality expectation and fit with a confirmed customer request. Two neutral product cards connect through arrows to one confirmed customer request; a verification shield marks information that must be checked.</desc>
+<defs><marker id="arrow" markerUnits="userSpaceOnUse" viewBox="0 0 14 10" refX="13" refY="5" markerWidth="14" markerHeight="10" orient="auto-start-reverse"><path d="M 0 0 L 14 5 L 0 10 Z" fill="#52666d" stroke="none"/></marker></defs>
+<rect x="0" y="0" width="1200" height="700" rx="0" fill="#eef6f6" stroke="#eef6f6" stroke-width="0"/>
+<rect x="0" y="0" width="1200" height="100" rx="0" fill="#073d48" stroke="#073d48" stroke-width="0"/>
+<text x="40" y="62.92" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="38" font-weight="800" fill="#ffffff"><tspan x="40" dy="0">Explain and match products accurately</tspan></text>
+<circle cx="55" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="55" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="55" dy="0">1</tspan></text>
+<rect x="82" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="245" y="141.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="245" dy="0">Use authorised product</tspan><tspan x="245" dy="28">source</tspan></text>
+<circle cx="445" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="445" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="445" dy="0">2</tspan></text>
+<rect x="472" y="115" width="326" height="64" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="635" y="141.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="635" dy="0">Separate price, quality +</tspan><tspan x="635" dy="28">value</tspan></text>
+<circle cx="835" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="835" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="835" dy="0">3</tspan></text>
+<rect x="862" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="1025" y="141.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="1025" dy="0">Connect feature to</tspan><tspan x="1025" dy="28">request</tspan></text>
+<rect x="35" y="220" width="340" height="310" rx="22" fill="#e5f1f2" stroke="#0b5261" stroke-width="5"/>
+<text x="205" y="265.88" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="32" font-weight="700" fill="#132a31"><tspan x="205" dy="0">OPTION A</tspan></text>
+<rect x="65" y="305" width="280" height="55" rx="16" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<text x="205" y="340.66" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="205" dy="0">Verified feature</tspan></text>
+<rect x="65" y="377" width="280" height="55" rx="16" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<text x="205" y="412.66" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="205" dy="0">Current price</tspan></text>
+<rect x="65" y="449" width="280" height="55" rx="16" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<text x="205" y="484.66" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="205" dy="0">Quality evidence</tspan></text>
+<rect x="825" y="220" width="340" height="310" rx="22" fill="#fff5d8" stroke="#d9ab3d" stroke-width="5"/>
+<text x="995" y="265.88" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="32" font-weight="700" fill="#132a31"><tspan x="995" dy="0">OPTION B</tspan></text>
+<rect x="855" y="305" width="280" height="55" rx="16" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<text x="995" y="340.66" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="995" dy="0">Verified feature</tspan></text>
+<rect x="855" y="377" width="280" height="55" rx="16" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<text x="995" y="412.66" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="995" dy="0">Current price</tspan></text>
+<rect x="855" y="449" width="280" height="55" rx="16" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<text x="995" y="484.66" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="995" dy="0">Quality evidence</tspan></text>
+<rect x="425" y="245" width="350" height="250" rx="120" fill="#ffffff" stroke="#17663e" stroke-width="5"/>
+<text x="600" y="309.52" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="800" fill="#132a31"><tspan x="600" dy="0">CONFIRMED REQUEST</tspan></text>
+<text x="600" y="380.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#132a31"><tspan x="600" dy="0">Possible benefit</tspan></text>
+<text x="600" y="438.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#132a31"><tspan x="600" dy="0">Value judgement belongs to</tspan><tspan x="600" dy="28">customer</tspan></text>
+<path d="M 382 375 L 420 375" fill="none" stroke="#52666d" stroke-width="5" marker-end="url(#arrow)"/>
+<path d="M 818 375 L 780 375" fill="none" stroke="#52666d" stroke-width="5" marker-end="url(#arrow)"/>
+<rect x="225" y="570" width="750" height="58" rx="24" fill="#073d48" stroke="#073d48" stroke-width="3"/>
+<text x="600" y="608.52" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="700" fill="#ffffff"><tspan x="600" dy="0">CHECK CURRENT PRODUCT INFORMATION</tspan></text>
+<path d="M 28 660 L 1172 660" fill="none" stroke="#8da8ad" stroke-width="2"/>
+<text x="1165" y="686.16" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#52666d"><tspan x="1165" dy="0">TASK-2 · MODULE 05 · INSTRUCTIONAL VISUAL</tspan></text>
+</svg>

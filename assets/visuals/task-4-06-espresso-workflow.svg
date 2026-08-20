@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="task-4-06-espresso-workflow-title task-4-06-espresso-workflow-desc" data-layout="eight-workflow">
+<title id="task-4-06-espresso-workflow-title">Espresso workflow: confirm, prepare, extract, texture and serve</title>
+<desc id="task-4-06-espresso-workflow-desc">Eight-frame espresso workflow follows a confirmed order through station preparation, coffee preparation, extraction observation, milk texturing, presentation, handover and cleaning, with recipe and stop-or-report decision points. Large sequential frames for confirm, prepare, grind and prepare coffee, extract and observe, select and texture milk, combine, verify and serve, and clean and report. Each frame includes a decision icon rather than a numeric setting.</desc>
+<defs><marker id="arrow" markerUnits="userSpaceOnUse" viewBox="0 0 14 10" refX="13" refY="5" markerWidth="14" markerHeight="10" orient="auto-start-reverse"><path d="M 0 0 L 14 5 L 0 10 Z" fill="#52666d" stroke="none"/></marker></defs>
+<rect x="0" y="0" width="1200" height="700" rx="0" fill="#eef6f6" stroke="#eef6f6" stroke-width="0"/>
+<rect x="0" y="0" width="1200" height="100" rx="0" fill="#073d48" stroke="#073d48" stroke-width="0"/>
+<text x="40" y="41.92" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="38" font-weight="800" fill="#ffffff"><tspan x="40" dy="0">Espresso workflow: confirm, prepare, extract, texture</tspan><tspan x="40" dy="42">and serve</tspan></text>
+<circle cx="55" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="55" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="55" dy="0">1</tspan></text>
+<rect x="82" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="245" y="141.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="245" dy="0">Begin with confirmed</tspan><tspan x="245" dy="28">order</tspan></text>
+<circle cx="445" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="445" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="445" dy="0">2</tspan></text>
+<rect x="472" y="115" width="326" height="64" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="635" y="141.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="635" dy="0">Prepare by authorised</tspan><tspan x="635" dy="28">method</tspan></text>
+<circle cx="835" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="835" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="835" dy="0">3</tspan></text>
+<rect x="862" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="1025" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="1025" dy="0">Keep work observable</tspan></text>
+<rect x="30" y="220" width="260" height="125" rx="18" fill="#ffffff" stroke="#0b5261" stroke-width="4"/>
+<circle cx="58" cy="242" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="58" y="250.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="58" dy="0">1</tspan></text>
+<text x="160" y="280.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="160" dy="0">CONFIRM ORDER</tspan></text>
+<rect x="100" y="310" width="120" height="32" rx="24" fill="#073d48" stroke="#073d48" stroke-width="3"/>
+<text x="160" y="334.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#ffffff"><tspan x="160" dy="0">ORDER A</tspan></text>
+<rect x="320" y="220" width="260" height="125" rx="18" fill="#fff5d8" stroke="#d9ab3d" stroke-width="4"/>
+<circle cx="348" cy="242" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="348" y="250.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="348" dy="0">2</tspan></text>
+<text x="450" y="280.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="450" dy="0">PREPARE STATION</tspan></text>
+<rect x="390" y="310" width="120" height="32" rx="24" fill="#073d48" stroke="#073d48" stroke-width="3"/>
+<text x="450" y="334.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#ffffff"><tspan x="450" dy="0">ORDER A</tspan></text>
+<path d="M 295 282 L 312 282" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="610" y="220" width="260" height="125" rx="18" fill="#ffffff" stroke="#0b5261" stroke-width="4"/>
+<circle cx="638" cy="242" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="638" y="250.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="638" dy="0">3</tspan></text>
+<text x="740" y="280.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="740" dy="0">GRIND + PREPARE</tspan></text>
+<rect x="680" y="310" width="120" height="32" rx="24" fill="#073d48" stroke="#073d48" stroke-width="3"/>
+<text x="740" y="334.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#ffffff"><tspan x="740" dy="0">ORDER A</tspan></text>
+<path d="M 585 282 L 602 282" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="900" y="220" width="260" height="125" rx="18" fill="#fff5d8" stroke="#d9ab3d" stroke-width="4"/>
+<circle cx="928" cy="242" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="928" y="250.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="928" dy="0">4</tspan></text>
+<text x="1030" y="280.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="1030" dy="0">EXTRACT + OBSERVE</tspan></text>
+<rect x="970" y="310" width="120" height="32" rx="24" fill="#073d48" stroke="#073d48" stroke-width="3"/>
+<text x="1030" y="334.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#ffffff"><tspan x="1030" dy="0">ORDER A</tspan></text>
+<path d="M 875 282 L 892 282" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="900" y="410" width="260" height="125" rx="18" fill="#ffffff" stroke="#0b5261" stroke-width="4"/>
+<circle cx="928" cy="432" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="928" y="440.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="928" dy="0">5</tspan></text>
+<text x="1030" y="470.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="1030" dy="0">SELECT + TEXTURE</tspan></text>
+<rect x="970" y="500" width="120" height="32" rx="24" fill="#073d48" stroke="#073d48" stroke-width="3"/>
+<text x="1030" y="524.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#ffffff"><tspan x="1030" dy="0">ORDER A</tspan></text>
+<path d="M 1030 350 L 1030 402" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="610" y="410" width="260" height="125" rx="18" fill="#fff5d8" stroke="#d9ab3d" stroke-width="4"/>
+<circle cx="638" cy="432" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="638" y="440.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="638" dy="0">6</tspan></text>
+<text x="740" y="470.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="740" dy="0">COMBINE</tspan></text>
+<rect x="680" y="500" width="120" height="32" rx="24" fill="#073d48" stroke="#073d48" stroke-width="3"/>
+<text x="740" y="524.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#ffffff"><tspan x="740" dy="0">ORDER A</tspan></text>
+<path d="M 895 472 L 878 472" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="320" y="410" width="260" height="125" rx="18" fill="#ffffff" stroke="#0b5261" stroke-width="4"/>
+<circle cx="348" cy="432" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="348" y="440.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="348" dy="0">7</tspan></text>
+<text x="450" y="470.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="450" dy="0">VERIFY + SERVE</tspan></text>
+<rect x="390" y="500" width="120" height="32" rx="24" fill="#073d48" stroke="#073d48" stroke-width="3"/>
+<text x="450" y="524.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#ffffff"><tspan x="450" dy="0">ORDER A</tspan></text>
+<path d="M 605 472 L 588 472" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="30" y="410" width="260" height="125" rx="18" fill="#fff5d8" stroke="#d9ab3d" stroke-width="4"/>
+<circle cx="58" cy="432" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="58" y="440.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="58" dy="0">8</tspan></text>
+<text x="160" y="470.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="160" dy="0">CLEAN + REPORT</tspan></text>
+<rect x="100" y="500" width="120" height="32" rx="24" fill="#073d48" stroke="#073d48" stroke-width="3"/>
+<text x="160" y="524.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#ffffff"><tspan x="160" dy="0">ORDER A</tspan></text>
+<path d="M 315 472 L 298 472" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="75" y="565" width="225" height="48" rx="24" fill="#e5f1f2" stroke="#2d6980" stroke-width="3"/>
+<text x="187.5" y="597.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="187.5" dy="0">CURRENT RECIPE</tspan></text>
+<rect x="330" y="565" width="225" height="48" rx="24" fill="#e5f1f2" stroke="#2d6980" stroke-width="3"/>
+<text x="442.5" y="597.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="442.5" dy="0">MANUFACTURER</tspan></text>
+<rect x="585" y="565" width="225" height="48" rx="24" fill="#e5f1f2" stroke="#2d6980" stroke-width="3"/>
+<text x="697.5" y="597.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="697.5" dy="0">TEACHER</tspan></text>
+<rect x="850" y="555" width="320" height="72" rx="16" fill="#fbe9e4" stroke="#8a3a2a" stroke-width="3"/>
+<text x="1010" y="585" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="1010" dy="0">Unexpected result or</tspan><tspan x="1010" dy="29">fault → STOP + REPORT</tspan></text>
+<path d="M 28 660 L 1172 660" fill="none" stroke="#8da8ad" stroke-width="2"/>
+<text x="1165" y="686.16" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#52666d"><tspan x="1165" dy="0">TASK-4 · MODULE 06 · INSTRUCTIONAL VISUAL</tspan></text>
+</svg>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="task-1-01-kitchen-readiness-title task-1-01-kitchen-readiness-desc" data-layout="lanes">
+<title id="task-1-01-kitchen-readiness-title">The whole-job kitchen pre-start</title>
+<desc id="task-1-01-kitchen-readiness-desc">Four connected pre-start lanes for task, person, place and process lead to a start or stop decision, followed by monitoring and an honest record. A horizontal four-lane map for Task, Person, Place and Process. Each lane contains two observable checks and feeds into a central Start, Stop and Confirm decision. A final arrow leads to Monitor during work and Record after work.</desc>
+<defs><marker id="arrow" markerUnits="userSpaceOnUse" viewBox="0 0 14 10" refX="13" refY="5" markerWidth="14" markerHeight="10" orient="auto-start-reverse"><path d="M 0 0 L 14 5 L 0 10 Z" fill="#52666d" stroke="none"/></marker></defs>
+<rect x="0" y="0" width="1200" height="700" rx="0" fill="#eef6f6" stroke="#eef6f6" stroke-width="0"/>
+<rect x="0" y="0" width="1200" height="100" rx="0" fill="#073d48" stroke="#073d48" stroke-width="0"/>
+<text x="40" y="62.92" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="38" font-weight="800" fill="#ffffff"><tspan x="40" dy="0">The whole-job kitchen pre-start</tspan></text>
+<circle cx="55" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="55" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="55" dy="0">1</tspan></text>
+<rect x="82" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="245" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="245" dy="0">Safe work system</tspan></text>
+<circle cx="445" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="445" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="445" dy="0">2</tspan></text>
+<rect x="472" y="115" width="326" height="64" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="635" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="635" dy="0">Read before setup</tspan></text>
+<circle cx="835" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="835" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="835" dy="0">3</tspan></text>
+<rect x="862" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="1025" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="1025" dy="0">Person prepared</tspan></text>
+<rect x="20" y="219" width="140" height="48" rx="24" fill="#073d48" stroke="#073d48" stroke-width="3"/>
+<text x="90" y="251.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#ffffff"><tspan x="90" dy="0">TASK</tspan></text>
+<rect x="172" y="205" width="200" height="76" rx="16" fill="#ffffff" stroke="#0b5261" stroke-width="3"/>
+<text x="272" y="237" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="272" dy="0">Recipe + method</tspan><tspan x="272" dy="29">read</tspan></text>
+<path d="M 374 243 L 394 243" fill="none" stroke="#52666d" stroke-width="5" marker-end="url(#arrow)"/>
+<rect x="405" y="205" width="200" height="76" rx="16" fill="#e5f1f2" stroke="#0b5261" stroke-width="3"/>
+<text x="505" y="237" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="505" dy="0">Yield + timing</tspan><tspan x="505" dy="29">checked</tspan></text>
+<path d="M 610 243 L 685 370" fill="none" stroke="#52666d" stroke-width="5" marker-end="url(#arrow)"/>
+<rect x="20" y="311" width="140" height="48" rx="24" fill="#073d48" stroke="#073d48" stroke-width="3"/>
+<text x="90" y="343.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#ffffff"><tspan x="90" dy="0">PERSON</tspan></text>
+<rect x="172" y="297" width="200" height="76" rx="16" fill="#ffffff" stroke="#0b5261" stroke-width="3"/>
+<text x="272" y="329" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="272" dy="0">Presentation</tspan><tspan x="272" dy="29">ready</tspan></text>
+<path d="M 374 335 L 394 335" fill="none" stroke="#52666d" stroke-width="5" marker-end="url(#arrow)"/>
+<rect x="405" y="297" width="200" height="76" rx="16" fill="#e5f1f2" stroke="#0b5261" stroke-width="3"/>
+<text x="505" y="329" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="505" dy="0">Health issue</tspan><tspan x="505" dy="29">reported</tspan></text>
+<path d="M 610 335 L 685 370" fill="none" stroke="#52666d" stroke-width="5" marker-end="url(#arrow)"/>
+<rect x="20" y="403" width="140" height="48" rx="24" fill="#073d48" stroke="#073d48" stroke-width="3"/>
+<text x="90" y="435.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#ffffff"><tspan x="90" dy="0">PLACE</tspan></text>
+<rect x="172" y="389" width="200" height="76" rx="16" fill="#ffffff" stroke="#0b5261" stroke-width="3"/>
+<text x="272" y="435.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="272" dy="0">Paths clear</tspan></text>
+<path d="M 374 427 L 394 427" fill="none" stroke="#52666d" stroke-width="5" marker-end="url(#arrow)"/>
+<rect x="405" y="389" width="200" height="76" rx="16" fill="#e5f1f2" stroke="#0b5261" stroke-width="3"/>
+<text x="505" y="421" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="505" dy="0">Bench + sink</tspan><tspan x="505" dy="29">ready</tspan></text>
+<path d="M 610 427 L 685 370" fill="none" stroke="#52666d" stroke-width="5" marker-end="url(#arrow)"/>
+<rect x="20" y="495" width="140" height="48" rx="24" fill="#073d48" stroke="#073d48" stroke-width="3"/>
+<text x="90" y="527.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#ffffff"><tspan x="90" dy="0">PROCESS</tspan></text>
+<rect x="172" y="481" width="200" height="76" rx="16" fill="#ffffff" stroke="#0b5261" stroke-width="3"/>
+<text x="272" y="527.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="272" dy="0">Tools inspected</tspan></text>
+<path d="M 374 519 L 394 519" fill="none" stroke="#52666d" stroke-width="5" marker-end="url(#arrow)"/>
+<rect x="405" y="481" width="200" height="76" rx="16" fill="#e5f1f2" stroke="#0b5261" stroke-width="3"/>
+<text x="505" y="513" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="505" dy="0">Food controls</tspan><tspan x="505" dy="29">planned</tspan></text>
+<path d="M 610 519 L 685 370" fill="none" stroke="#52666d" stroke-width="5" marker-end="url(#arrow)"/>
+<rect x="690" y="302" width="240" height="136" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="810" y="362.7" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="30" font-weight="700" fill="#132a31"><tspan x="810" dy="0">START / STOP /</tspan><tspan x="810" dy="35">CONFIRM</tspan></text>
+<path d="M 935 347 L 978 295" fill="none" stroke="#52666d" stroke-width="5" marker-end="url(#arrow)"/>
+<path d="M 935 393 L 978 485" fill="none" stroke="#52666d" stroke-width="5" marker-end="url(#arrow)"/>
+<rect x="990" y="240" width="180" height="88" rx="16" fill="#e5f1f2" stroke="#17663e" stroke-width="3"/>
+<text x="1080" y="293.52" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="700" fill="#132a31"><tspan x="1080" dy="0">MONITOR</tspan></text>
+<rect x="990" y="455" width="180" height="88" rx="16" fill="#e5f1f2" stroke="#2d6980" stroke-width="3"/>
+<text x="1080" y="508.52" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="700" fill="#132a31"><tspan x="1080" dy="0">RECORD</tspan></text>
+<path d="M 28 660 L 1172 660" fill="none" stroke="#8da8ad" stroke-width="2"/>
+<text x="1165" y="686.16" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#52666d"><tspan x="1165" dy="0">TASK-1 · MODULE 01 · INSTRUCTIONAL VISUAL</tspan></text>
+</svg>

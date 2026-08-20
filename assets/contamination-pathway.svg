@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" role="img" aria-labelledby="title desc">
+  <title id="title">A contamination pathway and the controls that break it</title>
+  <desc id="desc">Raw food can transfer contamination through hands, tools or surfaces to ready-to-eat food. Handwashing, separation, cleaning and sanitising break the pathway.</desc>
+  <rect width="900" height="300" rx="22" fill="#f7fbfb"/>
+  <g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle">
+    <rect x="35" y="92" width="170" height="112" rx="16" fill="#f5d8cf" stroke="#8a3a2a" stroke-width="3"/>
+    <text x="120" y="133" font-size="23" font-weight="700" fill="#572218">Raw food</text>
+    <text x="120" y="166" font-size="17" fill="#572218">possible hazard</text>
+    <path d="M215 148h130" stroke="#8a3a2a" stroke-width="9" marker-end="url(#arrow)"/>
+    <rect x="350" y="54" width="200" height="188" rx="16" fill="#fff4d8" stroke="#d6a83b" stroke-width="3"/>
+    <text x="450" y="96" font-size="22" font-weight="700" fill="#5f4811">Transfer route</text>
+    <text x="450" y="130" font-size="17" fill="#5f4811">hands</text>
+    <text x="450" y="159" font-size="17" fill="#5f4811">tools</text>
+    <text x="450" y="188" font-size="17" fill="#5f4811">surfaces</text>
+    <path d="M560 148h130" stroke="#8a3a2a" stroke-width="9" marker-end="url(#arrow)"/>
+    <rect x="695" y="92" width="170" height="112" rx="16" fill="#f5d8cf" stroke="#8a3a2a" stroke-width="3"/>
+    <text x="780" y="133" font-size="21" font-weight="700" fill="#572218">Ready-to-eat</text>
+    <text x="780" y="164" font-size="17" fill="#572218">food at risk</text>
+    <rect x="260" y="251" width="380" height="36" rx="18" fill="#0b5261"/>
+    <text x="450" y="275" font-size="16" font-weight="700" fill="#fff">BREAK IT: wash · separate · clean · sanitise</text>
+  </g>
+  <defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0l10 5-10 5z" fill="#8a3a2a"/></marker></defs>
+</svg>

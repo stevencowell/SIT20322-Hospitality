@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="task-3-02-sectors-relationships-title task-3-02-sectors-relationships-desc" data-layout="sector-lanes">
+<title id="task-3-02-sectors-relationships-title">Sectors, services and working relationships</title>
+<desc id="task-3-02-sectors-relationships-desc">Fictional hospitality customer journey connecting accommodation, food and beverage, events, transport and suppliers, with labelled information handovers and a closed-loop response to one change. A fictional regional function journey runs left to right from enquiry to departure. Coloured lanes show accommodation, food and beverage, event service and allied providers. Each arrow is labelled with the information or service handed over, and one disrupted connection expands into a closed-loop recovery inset.</desc>
+<defs><marker id="arrow" markerUnits="userSpaceOnUse" viewBox="0 0 14 10" refX="13" refY="5" markerWidth="14" markerHeight="10" orient="auto-start-reverse"><path d="M 0 0 L 14 5 L 0 10 Z" fill="#52666d" stroke="none"/></marker></defs>
+<rect x="0" y="0" width="1200" height="700" rx="0" fill="#eef6f6" stroke="#eef6f6" stroke-width="0"/>
+<rect x="0" y="0" width="1200" height="100" rx="0" fill="#073d48" stroke="#073d48" stroke-width="0"/>
+<text x="40" y="62.92" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="38" font-weight="800" fill="#ffffff"><tspan x="40" dy="0">Sectors, services and working relationships</tspan></text>
+<circle cx="55" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="55" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="55" dy="0">1</tspan></text>
+<rect x="82" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="245" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="245" dy="0">Sectors group functions</tspan></text>
+<circle cx="445" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="445" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="445" dy="0">2</tspan></text>
+<rect x="472" y="115" width="326" height="64" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="635" y="141.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="635" dy="0">Customer sees one</tspan><tspan x="635" dy="28">experience</tspan></text>
+<circle cx="835" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="835" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="835" dy="0">3</tspan></text>
+<rect x="862" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="1025" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="1025" dy="0">Allied services connect</tspan></text>
+<rect x="250" y="195" width="168" height="58" rx="5" fill="#073d48" stroke="#073d48" stroke-width="3"/>
+<text x="334" y="232.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#ffffff"><tspan x="334" dy="0">ENQUIRY</tspan></text>
+<rect x="430" y="195" width="168" height="58" rx="5" fill="#073d48" stroke="#073d48" stroke-width="3"/>
+<text x="514" y="232.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#ffffff"><tspan x="514" dy="0">ARRIVAL</tspan></text>
+<rect x="610" y="195" width="168" height="58" rx="5" fill="#073d48" stroke="#073d48" stroke-width="3"/>
+<text x="694" y="232.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#ffffff"><tspan x="694" dy="0">EVENT</tspan></text>
+<rect x="790" y="195" width="168" height="58" rx="5" fill="#073d48" stroke="#073d48" stroke-width="3"/>
+<text x="874" y="232.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#ffffff"><tspan x="874" dy="0">MEAL</tspan></text>
+<rect x="970" y="195" width="168" height="58" rx="5" fill="#073d48" stroke="#073d48" stroke-width="3"/>
+<text x="1054" y="232.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#ffffff"><tspan x="1054" dy="0">DEPARTURE</tspan></text>
+<rect x="15" y="272" width="220" height="56" rx="24" fill="#e5f1f2" stroke="#0b5261" stroke-width="3"/>
+<text x="125" y="308.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="125" dy="0">ACCOMMODATION</tspan></text>
+<rect x="250" y="270" width="168" height="58" rx="4" fill="#eef6f6" stroke="#8da8ad" stroke-width="3"/>
+<path d="M 421 299 L 427 299" fill="none" stroke="#52666d" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="430" y="270" width="168" height="58" rx="4" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<path d="M 601 299 L 607 299" fill="none" stroke="#52666d" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="610" y="270" width="168" height="58" rx="4" fill="#eef6f6" stroke="#8da8ad" stroke-width="3"/>
+<path d="M 781 299 L 787 299" fill="none" stroke="#52666d" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="790" y="270" width="168" height="58" rx="4" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<path d="M 961 299 L 967 299" fill="none" stroke="#52666d" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="970" y="270" width="168" height="58" rx="4" fill="#eef6f6" stroke="#8da8ad" stroke-width="3"/>
+<rect x="15" y="335" width="220" height="56" rx="24" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="125" y="371.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="125" dy="0">FOOD + DRINK</tspan></text>
+<rect x="250" y="333" width="168" height="58" rx="4" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<path d="M 421 362 L 427 362" fill="none" stroke="#52666d" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="430" y="333" width="168" height="58" rx="4" fill="#eef6f6" stroke="#8da8ad" stroke-width="3"/>
+<path d="M 601 362 L 607 362" fill="none" stroke="#52666d" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="610" y="333" width="168" height="58" rx="4" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<path d="M 781 362 L 787 362" fill="none" stroke="#52666d" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="790" y="333" width="168" height="58" rx="4" fill="#eef6f6" stroke="#8da8ad" stroke-width="3"/>
+<path d="M 961 362 L 967 362" fill="none" stroke="#52666d" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="970" y="333" width="168" height="58" rx="4" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<rect x="15" y="398" width="220" height="56" rx="24" fill="#e5f1f2" stroke="#0b5261" stroke-width="3"/>
+<text x="125" y="434.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="125" dy="0">EVENT SERVICE</tspan></text>
+<rect x="250" y="396" width="168" height="58" rx="4" fill="#eef6f6" stroke="#8da8ad" stroke-width="3"/>
+<path d="M 421 425 L 427 425" fill="none" stroke="#52666d" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="430" y="396" width="168" height="58" rx="4" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<path d="M 601 425 L 607 425" fill="none" stroke="#52666d" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="610" y="396" width="168" height="58" rx="4" fill="#eef6f6" stroke="#8da8ad" stroke-width="3"/>
+<path d="M 781 425 L 787 425" fill="none" stroke="#52666d" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="790" y="396" width="168" height="58" rx="4" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<path d="M 961 425 L 967 425" fill="none" stroke="#52666d" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="970" y="396" width="168" height="58" rx="4" fill="#eef6f6" stroke="#8da8ad" stroke-width="3"/>
+<rect x="15" y="461" width="220" height="56" rx="24" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="125" y="497.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="125" dy="0">TRANSPORT</tspan></text>
+<rect x="250" y="459" width="168" height="58" rx="4" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<path d="M 421 488 L 427 488" fill="none" stroke="#52666d" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="430" y="459" width="168" height="58" rx="4" fill="#eef6f6" stroke="#8da8ad" stroke-width="3"/>
+<path d="M 601 488 L 607 488" fill="none" stroke="#52666d" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="610" y="459" width="168" height="58" rx="4" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<path d="M 781 488 L 787 488" fill="none" stroke="#52666d" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="790" y="459" width="168" height="58" rx="4" fill="#eef6f6" stroke="#8da8ad" stroke-width="3"/>
+<path d="M 961 488 L 967 488" fill="none" stroke="#52666d" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="970" y="459" width="168" height="58" rx="4" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<rect x="15" y="524" width="220" height="56" rx="24" fill="#e5f1f2" stroke="#0b5261" stroke-width="3"/>
+<text x="125" y="560.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="125" dy="0">SUPPLIER</tspan></text>
+<rect x="250" y="522" width="168" height="58" rx="4" fill="#eef6f6" stroke="#8da8ad" stroke-width="3"/>
+<path d="M 421 551 L 427 551" fill="none" stroke="#52666d" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="430" y="522" width="168" height="58" rx="4" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<path d="M 601 551 L 607 551" fill="none" stroke="#52666d" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="610" y="522" width="168" height="58" rx="4" fill="#eef6f6" stroke="#8da8ad" stroke-width="3"/>
+<path d="M 781 551 L 787 551" fill="none" stroke="#52666d" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="790" y="522" width="168" height="58" rx="4" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<path d="M 961 551 L 967 551" fill="none" stroke="#52666d" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="970" y="522" width="168" height="58" rx="4" fill="#eef6f6" stroke="#8da8ad" stroke-width="3"/>
+<rect x="225" y="560" width="210" height="54" rx="24" fill="#ffffff" stroke="#2d6980" stroke-width="3"/>
+<text x="330" y="595.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="330" dy="0">booking info</tspan></text>
+<path d="M 330 552 L 330 525" fill="none" stroke="#2d6980" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="455" y="560" width="210" height="54" rx="24" fill="#ffffff" stroke="#2d6980" stroke-width="3"/>
+<text x="560" y="595.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="560" dy="0">arrival info</tspan></text>
+<path d="M 560 552 L 560 525" fill="none" stroke="#2d6980" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="685" y="560" width="210" height="54" rx="24" fill="#ffffff" stroke="#2d6980" stroke-width="3"/>
+<text x="790" y="595.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="790" dy="0">timing update</tspan></text>
+<path d="M 790 552 L 790 525" fill="none" stroke="#2d6980" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="915" y="560" width="210" height="54" rx="24" fill="#ffffff" stroke="#2d6980" stroke-width="3"/>
+<text x="1020" y="595.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="1020" dy="0">exit info</tspan></text>
+<path d="M 1020 552 L 1020 525" fill="none" stroke="#2d6980" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="135" y="615" width="930" height="38" rx="24" fill="#fbe9e4" stroke="#8a3a2a" stroke-width="3"/>
+<text x="600" y="642.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="600" dy="0">MEAL TIME CHANGES → confirm owner → update customer</tspan></text>
+<path d="M 28 660 L 1172 660" fill="none" stroke="#8da8ad" stroke-width="2"/>
+<text x="1165" y="686.16" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#52666d"><tspan x="1165" dy="0">TASK-3 · MODULE 02 · INSTRUCTIONAL VISUAL</tspan></text>
+</svg>

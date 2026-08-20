@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="task-4-07-quality-title task-4-07-quality-desc" data-layout="quality-map">
+<title id="task-4-07-quality-title">Quality: observe, diagnose, act and record</title>
+<desc id="task-4-07-quality-desc">Quality decision map compares observable beverage and serviceware features, directs the learner to the current standard, and branches to accept, authorised adjustment, remake or report. Four paired close-ups show representative observable differences in extraction flow or crema, milk texture, serviceware cleanliness and finished presentation. Each pair feeds into observe, compare, act and record, without numeric targets.</desc>
+<defs><marker id="arrow" markerUnits="userSpaceOnUse" viewBox="0 0 14 10" refX="13" refY="5" markerWidth="14" markerHeight="10" orient="auto-start-reverse"><path d="M 0 0 L 14 5 L 0 10 Z" fill="#52666d" stroke="none"/></marker></defs>
+<rect x="0" y="0" width="1200" height="700" rx="0" fill="#eef6f6" stroke="#eef6f6" stroke-width="0"/>
+<rect x="0" y="0" width="1200" height="100" rx="0" fill="#073d48" stroke="#073d48" stroke-width="0"/>
+<text x="40" y="62.92" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="38" font-weight="800" fill="#ffffff"><tspan x="40" dy="0">Quality: observe, diagnose, act and record</tspan></text>
+<circle cx="55" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="55" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="55" dy="0">1</tspan></text>
+<rect x="82" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="245" y="141.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="245" dy="0">Start from order +</tspan><tspan x="245" dy="28">standard</tspan></text>
+<circle cx="445" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="445" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="445" dy="0">2</tspan></text>
+<rect x="472" y="115" width="326" height="64" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="635" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="635" dy="0">Describe before diagnose</tspan></text>
+<circle cx="835" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="835" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="835" dy="0">3</tspan></text>
+<rect x="862" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="1025" y="141.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="1025" dy="0">Change one variable</tspan><tspan x="1025" dy="28">deliberately</tspan></text>
+<rect x="25" y="210" width="330" height="76" rx="12" fill="#e5f1f2" stroke="#0b5261" stroke-width="3"/>
+<path d="M 43 265 C 63 220 83 220 103 265" fill="none" stroke="#7b4d25" stroke-width="5"/>
+<text x="140" y="242.16" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="140" dy="0">EXTRACTION</tspan></text>
+<text x="140" y="273.16" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#132a31"><tspan x="140" dy="0">flow cue</tspan></text>
+<rect x="25" y="298" width="330" height="76" rx="12" fill="#ffffff" stroke="#0b5261" stroke-width="3"/>
+<path d="M 43 353 Q 73 303 103 353" fill="#ffffff" stroke="#2d6980" stroke-width="4"/>
+<text x="140" y="330.16" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="140" dy="0">MILK TEXTURE</tspan></text>
+<text x="140" y="361.16" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#132a31"><tspan x="140" dy="0">texture cue</tspan></text>
+<rect x="25" y="386" width="330" height="76" rx="12" fill="#e5f1f2" stroke="#0b5261" stroke-width="3"/>
+<path d="M 40 394 H 104 L 96 452 Q 72 464 48 452 Z" fill="#ffffff" stroke="#0b5261" stroke-width="4"/>
+<path d="M 104 406 C 132 402 132 442 102 439" fill="none" stroke="#0b5261" stroke-width="4"/>
+<path d="M 36 466 L 118 466" fill="none" stroke="#0b5261" stroke-width="4"/>
+<text x="140" y="418.16" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="140" dy="0">SERVICEWARE</tspan></text>
+<text x="140" y="449.16" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#132a31"><tspan x="140" dy="0">clean / defect</tspan></text>
+<rect x="25" y="474" width="330" height="76" rx="12" fill="#ffffff" stroke="#0b5261" stroke-width="3"/>
+<path d="M 40 534 Q 75 512 110 534" fill="none" stroke="#7b4d25" stroke-width="5"/>
+<path d="M 35 537 L 115 537" fill="none" stroke="#7b4d25" stroke-width="5"/>
+<circle cx="75" cy="508" r="5" fill="#d9ab3d" stroke="#7b4d25" stroke-width="3"/>
+<text x="140" y="506.16" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="140" dy="0">PRESENTATION</tspan></text>
+<text x="140" y="537.16" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#132a31"><tspan x="140" dy="0">matches order?</tspan></text>
+<rect x="390" y="225" width="310" height="80" rx="16" fill="#e5f1f2" stroke="#17663e" stroke-width="3"/>
+<text x="545" y="273.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="545" dy="0">OBSERVE</tspan></text>
+<path d="M 545 308 L 545 337" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="390" y="345" width="310" height="80" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="545" y="379" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="545" dy="0">COMPARE WITH</tspan><tspan x="545" dy="29">CURRENT STANDARD</tspan></text>
+<path d="M 545 428 L 545 457" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="390" y="465" width="310" height="80" rx="16" fill="#e5f1f2" stroke="#17663e" stroke-width="3"/>
+<text x="545" y="513.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="545" dy="0">DESCRIBE EVIDENCE</tspan></text>
+<circle cx="765" cy="390" r="55" fill="#073d48" stroke="#073d48" stroke-width="4"/>
+<text x="765" y="398.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#ffffff"><tspan x="765" dy="0">DECIDE</tspan></text>
+<path d="M 705 505 L 745 440" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="830" y="235" width="165" height="88" rx="16" fill="#ffffff" stroke="#17663e" stroke-width="3"/>
+<text x="912.5" y="287.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="912.5" dy="0">ACCEPT</tspan></text>
+<path d="M 820 360 L 825 279" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="1010" y="235" width="165" height="88" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="1092.5" y="273.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="1092.5" dy="0">AUTHORISED</tspan><tspan x="1092.5" dy="28">ADJUST</tspan></text>
+<path d="M 808 390 H 815 V 210 H 1000 V 279" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="830" y="380" width="165" height="88" rx="16" fill="#ffffff" stroke="#17663e" stroke-width="3"/>
+<text x="912.5" y="432.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="912.5" dy="0">REMAKE</tspan></text>
+<path d="M 820 420 L 825 424" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="1010" y="380" width="165" height="88" rx="16" fill="#fbe9e4" stroke="#8a3a2a" stroke-width="3"/>
+<text x="1092.5" y="432.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="1092.5" dy="0">REPORT</tspan></text>
+<path d="M 808 390 H 815 V 525 H 1000 V 424" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="600" y="559.18" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="700" fill="#2d6980"><tspan x="600" dy="0">QUALITY LOG</tspan></text>
+<rect x="75" y="575" width="250" height="52" rx="24" fill="#ffffff" stroke="#2d6980" stroke-width="3"/>
+<text x="200" y="609.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="200" dy="0">Order</tspan></text>
+<rect x="345" y="575" width="250" height="52" rx="24" fill="#ffffff" stroke="#2d6980" stroke-width="3"/>
+<text x="470" y="609.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="470" dy="0">Observation</tspan></text>
+<rect x="615" y="575" width="250" height="52" rx="24" fill="#ffffff" stroke="#2d6980" stroke-width="3"/>
+<text x="740" y="609.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="740" dy="0">Action</tspan></text>
+<rect x="885" y="575" width="250" height="52" rx="24" fill="#ffffff" stroke="#2d6980" stroke-width="3"/>
+<text x="1010" y="609.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="1010" dy="0">Result</tspan></text>
+<path d="M 1135 635 H 80 V 630" fill="none" stroke="#2d6980" stroke-width="4" marker-end="url(#arrow)"/>
+<path d="M 28 660 L 1172 660" fill="none" stroke="#8da8ad" stroke-width="2"/>
+<text x="1165" y="686.16" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#52666d"><tspan x="1165" dy="0">TASK-4 · MODULE 07 · INSTRUCTIONAL VISUAL</tspan></text>
+</svg>

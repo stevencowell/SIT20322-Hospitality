@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="task-2-08-recovery-title task-2-08-recovery-desc" data-layout="recovery-tree">
+<title id="task-2-08-recovery-title">Recover service problems, manage conflict and use feedback</title>
+<desc id="task-2-08-recovery-desc">Service recovery diagram moves from listening and clarification to routine action, supervisor decision or safety escalation, then follow-up and improvement recording. A complaint enters listen, clarify and repeat, then branches to routine authorised action, supervisor decision or safety escalation; all safe branches return to follow-up and factual improvement record.</desc>
+<defs><marker id="arrow" markerUnits="userSpaceOnUse" viewBox="0 0 14 10" refX="13" refY="5" markerWidth="14" markerHeight="10" orient="auto-start-reverse"><path d="M 0 0 L 14 5 L 0 10 Z" fill="#52666d" stroke="none"/></marker></defs>
+<rect x="0" y="0" width="1200" height="700" rx="0" fill="#eef6f6" stroke="#eef6f6" stroke-width="0"/>
+<rect x="0" y="0" width="1200" height="100" rx="0" fill="#073d48" stroke="#073d48" stroke-width="0"/>
+<text x="40" y="41.92" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="38" font-weight="800" fill="#ffffff"><tspan x="40" dy="0">Recover service problems, manage conflict and use</tspan><tspan x="40" dy="42">feedback</tspan></text>
+<circle cx="55" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="55" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="55" dy="0">1</tspan></text>
+<rect x="82" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="245" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="245" dy="0">Use six-part recovery</tspan></text>
+<circle cx="445" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="445" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="445" dy="0">2</tspan></text>
+<rect x="472" y="115" width="326" height="64" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="635" y="141.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="635" dy="0">Keep conflict</tspan><tspan x="635" dy="28">constructive</tspan></text>
+<circle cx="835" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="835" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="835" dy="0">3</tspan></text>
+<rect x="862" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="1025" y="141.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="1025" dy="0">Know when routine action</tspan><tspan x="1025" dy="28">stops</tspan></text>
+<rect x="35" y="225" width="160" height="82" rx="16" fill="#ffffff" stroke="#0b5261" stroke-width="3"/>
+<text x="115" y="274.84" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#132a31"><tspan x="115" dy="0">LISTEN</tspan></text>
+<path d="M 198 266 L 218 266" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="225" y="225" width="160" height="82" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="305" y="274.84" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#132a31"><tspan x="305" dy="0">CLARIFY</tspan></text>
+<path d="M 388 266 L 408 266" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="415" y="225" width="160" height="82" rx="16" fill="#ffffff" stroke="#0b5261" stroke-width="3"/>
+<text x="495" y="274.84" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#132a31"><tspan x="495" dy="0">REPEAT</tspan></text>
+<rect x="555" y="330" width="110" height="96" rx="16" fill="#073d48" stroke="#073d48" stroke-width="3"/>
+<text x="610" y="386.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#ffffff"><tspan x="610" dy="0">ROUTE</tspan></text>
+<path d="M 570 308 L 605 322" fill="none" stroke="#52666d" stroke-width="5" marker-end="url(#arrow)"/>
+<rect x="700" y="205" width="450" height="94" rx="16" fill="#e5f1f2" stroke="#17663e" stroke-width="4"/>
+<text x="720" y="261.18" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="700" fill="#132a31"><tspan x="720" dy="0">ROUTINE</tspan></text>
+<path d="M 910 219 L 910 285" fill="none" stroke="#8da8ad" stroke-width="2"/>
+<text x="930" y="260.5" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="600" fill="#132a31"><tspan x="930" dy="0">Authorised action</tspan></text>
+<path d="M 665 378 L 692 252" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="700" y="321" width="450" height="94" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="4"/>
+<text x="720" y="377.18" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="700" fill="#132a31"><tspan x="720" dy="0">SUPERVISOR</tspan></text>
+<path d="M 910 335 L 910 401" fill="none" stroke="#8da8ad" stroke-width="2"/>
+<text x="930" y="376.5" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="600" fill="#132a31"><tspan x="930" dy="0">Decision needed</tspan></text>
+<path d="M 665 378 L 692 368" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="700" y="437" width="450" height="94" rx="16" fill="#fbe9e4" stroke="#8a3a2a" stroke-width="4"/>
+<text x="720" y="493.18" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="700" fill="#132a31"><tspan x="720" dy="0">SAFETY</tspan></text>
+<path d="M 910 451 L 910 517" fill="none" stroke="#8da8ad" stroke-width="2"/>
+<text x="930" y="478" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="600" fill="#132a31"><tspan x="930" dy="0">Immediate</tspan><tspan x="930" dy="29">escalation</tspan></text>
+<path d="M 665 378 L 692 484" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="170" y="555" width="390" height="66" rx="24" fill="#ffffff" stroke="#2d6980" stroke-width="3"/>
+<text x="365" y="597.18" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="700" fill="#132a31"><tspan x="365" dy="0">FOLLOW UP</tspan></text>
+<rect x="640" y="555" width="390" height="66" rx="24" fill="#073d48" stroke="#073d48" stroke-width="3"/>
+<text x="835" y="597.18" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="700" fill="#ffffff"><tspan x="835" dy="0">RECORD + IMPROVE</tspan></text>
+<path d="M 1120 535 V 545 H 835 V 552" fill="none" stroke="#2d6980" stroke-width="4" marker-end="url(#arrow)"/>
+<path d="M 28 660 L 1172 660" fill="none" stroke="#8da8ad" stroke-width="2"/>
+<text x="1165" y="686.16" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#52666d"><tspan x="1165" dy="0">TASK-2 · MODULE 08 · INSTRUCTIONAL VISUAL</tspan></text>
+</svg>

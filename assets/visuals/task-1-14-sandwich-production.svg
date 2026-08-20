@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="task-1-14-sandwich-production-title task-1-14-sandwich-production-desc" data-layout="exploded">
+<title id="task-1-14-sandwich-production-title">Build a sandwich through controlled layers</title>
+<desc id="task-1-14-sandwich-production-desc">Sandwich layers align with recipe, preparation, safety, assembly, presentation, service and waste-control decisions. An exploded sandwich illustration aligns each product layer with the production stage beneath it: authorised recipe, bread check, prepared fillings, contamination and allergen controls, consistent assembly, protected presentation, then service or storage. A side stream shows prevention, reuse only as authorised and separated waste.</desc>
+<defs><marker id="arrow" markerUnits="userSpaceOnUse" viewBox="0 0 14 10" refX="13" refY="5" markerWidth="14" markerHeight="10" orient="auto-start-reverse"><path d="M 0 0 L 14 5 L 0 10 Z" fill="#52666d" stroke="none"/></marker></defs>
+<rect x="0" y="0" width="1200" height="700" rx="0" fill="#eef6f6" stroke="#eef6f6" stroke-width="0"/>
+<rect x="0" y="0" width="1200" height="100" rx="0" fill="#073d48" stroke="#073d48" stroke-width="0"/>
+<text x="40" y="62.92" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="38" font-weight="800" fill="#ffffff"><tspan x="40" dy="0">Build a sandwich through controlled layers</tspan></text>
+<circle cx="55" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="55" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="55" dy="0">1</tspan></text>
+<rect x="82" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="245" y="141.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="245" dy="0">Start from product</tspan><tspan x="245" dy="28">standard</tspan></text>
+<circle cx="445" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="445" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="445" dy="0">2</tspan></text>
+<rect x="472" y="115" width="326" height="64" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="635" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="635" dy="0">Match bread to product</tspan></text>
+<circle cx="835" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="835" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="835" dy="0">3</tspan></text>
+<rect x="862" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="1025" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="1025" dy="0">Prepare fillings safely</tspan></text>
+<text x="315" y="229.52" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="700" fill="#132a31"><tspan x="315" dy="0">EXPLODED PRODUCT</tspan></text>
+<rect x="105" y="250" width="420" height="44" rx="14" fill="#fff5d8" stroke="#7b4d25" stroke-width="3"/>
+<text x="315" y="280.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="315" dy="0">TOP BREAD</tspan></text>
+<rect x="105" y="315" width="420" height="44" rx="14" fill="#d7eadb" stroke="#17663e" stroke-width="3"/>
+<text x="315" y="345.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="315" dy="0">PROTECTED FILLING</tspan></text>
+<rect x="105" y="380" width="420" height="44" rx="14" fill="#d9ece7" stroke="#7b4d25" stroke-width="3"/>
+<text x="315" y="410.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="315" dy="0">PREPARED VEGETABLE</tspan></text>
+<rect x="105" y="445" width="420" height="44" rx="14" fill="#f4e1c1" stroke="#7b4d25" stroke-width="3"/>
+<text x="315" y="475.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="315" dy="0">STRUCTURE / SPREAD</tspan></text>
+<rect x="105" y="510" width="420" height="44" rx="14" fill="#fff5d8" stroke="#7b4d25" stroke-width="3"/>
+<text x="315" y="540.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="315" dy="0">BASE BREAD</tspan></text>
+<text x="735" y="229.52" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="700" fill="#132a31"><tspan x="735" dy="0">PRODUCTION STAGE</tspan></text>
+<rect x="555" y="250" width="360" height="44" rx="8" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="735" y="280.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="735" dy="0">AUTHORISED STANDARD</tspan></text>
+<path d="M 530 272 L 552 272" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="555" y="315" width="360" height="44" rx="8" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<text x="735" y="345.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="735" dy="0">BREAD CHECK</tspan></text>
+<path d="M 530 337 L 552 337" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="555" y="380" width="360" height="44" rx="8" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="735" y="410.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="735" dy="0">SAFE PREPARATION</tspan></text>
+<path d="M 530 402 L 552 402" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="555" y="445" width="360" height="44" rx="8" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<text x="735" y="475.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="735" dy="0">CONSISTENT ASSEMBLY</tspan></text>
+<path d="M 530 467 L 552 467" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="555" y="510" width="360" height="44" rx="8" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="735" y="540.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="735" dy="0">PROTECT FOR SERVICE</tspan></text>
+<path d="M 530 532 L 552 532" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="1045" y="243.84" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#132a31"><tspan x="1045" dy="0">WASTE SIDE STREAM</tspan></text>
+<rect x="945" y="300" width="215" height="68" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="1052.5" y="342.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="1052.5" dy="0">PREVENT</tspan></text>
+<rect x="945" y="390" width="215" height="68" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="1052.5" y="418.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="1052.5" dy="0">USE ONLY AS</tspan><tspan x="1052.5" dy="28">AUTHORISED</tspan></text>
+<rect x="945" y="480" width="215" height="68" rx="16" fill="#fbe9e4" stroke="#8a3a2a" stroke-width="3"/>
+<text x="1052.5" y="522.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="1052.5" dy="0">SORT WASTE</tspan></text>
+<path d="M 28 660 L 1172 660" fill="none" stroke="#8da8ad" stroke-width="2"/>
+<text x="1165" y="686.16" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#52666d"><tspan x="1165" dy="0">TASK-1 · MODULE 14 · INSTRUCTIONAL VISUAL</tspan></text>
+</svg>

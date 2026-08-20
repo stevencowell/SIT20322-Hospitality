@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="task-1-05-handwashing-contamination-title task-1-05-handwashing-contamination-desc" data-layout="transfer-map">
+<title id="task-1-05-handwashing-contamination-title">How a clean hand or glove becomes contaminated again</title>
+<desc id="task-1-05-handwashing-contamination-desc">Common touchpoints transfer contamination through hands or gloves to ready-to-eat food, with hygiene controls breaking each pathway. A central hand-and-glove illustration connects common touchpoints such as raw food, face and hair, phone, waste, cleaning and money to a ready-to-eat product. Break points show report, wash and dry, change gloves, replace equipment and separate the work zone.</desc>
+<defs><marker id="arrow" markerUnits="userSpaceOnUse" viewBox="0 0 14 10" refX="13" refY="5" markerWidth="14" markerHeight="10" orient="auto-start-reverse"><path d="M 0 0 L 14 5 L 0 10 Z" fill="#52666d" stroke="none"/></marker></defs>
+<rect x="0" y="0" width="1200" height="700" rx="0" fill="#eef6f6" stroke="#eef6f6" stroke-width="0"/>
+<rect x="0" y="0" width="1200" height="100" rx="0" fill="#073d48" stroke="#073d48" stroke-width="0"/>
+<text x="40" y="62.92" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="38" font-weight="800" fill="#ffffff"><tspan x="40" dy="0">How a clean hand or glove becomes contaminated again</tspan></text>
+<circle cx="55" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="55" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="55" dy="0">1</tspan></text>
+<rect x="82" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="245" y="141.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="245" dy="0">Hands move between</tspan><tspan x="245" dy="28">surfaces</tspan></text>
+<circle cx="445" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="445" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="445" dy="0">2</tspan></text>
+<rect x="472" y="115" width="326" height="64" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="635" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="635" dy="0">Recognise each trigger</tspan></text>
+<circle cx="835" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="835" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="835" dy="0">3</tspan></text>
+<rect x="862" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="1025" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="1025" dy="0">Break the transfer route</tspan></text>
+<circle cx="575" cy="400" r="90" fill="#073d48" stroke="#073d48" stroke-width="4"/>
+<text x="575" y="392.7" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="30" font-weight="700" fill="#ffffff"><tspan x="575" dy="0">HANDS /</tspan><tspan x="575" dy="35">GLOVES</tspan></text>
+<rect x="95" y="220" width="170" height="74" rx="16" fill="#ffffff" stroke="#0b5261" stroke-width="3"/>
+<text x="180" y="265.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="180" dy="0">Raw food</tspan></text>
+<path d="M 180 296 L 476.3616326462156 374.02939188659855" fill="none" stroke="#52666d" stroke-width="5" marker-end="url(#arrow)"/>
+<rect x="315" y="205" width="170" height="74" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="400" y="250.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="400" dy="0">Face + hair</tspan></text>
+<path d="M 400 281 L 490.6534967889081 342.6443778164575" fill="none" stroke="#52666d" stroke-width="5" marker-end="url(#arrow)"/>
+<rect x="535" y="205" width="170" height="74" rx="16" fill="#ffffff" stroke="#0b5261" stroke-width="3"/>
+<text x="620" y="250.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="620" dy="0">Phone</tspan></text>
+<path d="M 620 281 L 611.0780384859124 304.59363155947597" fill="none" stroke="#52666d" stroke-width="5" marker-end="url(#arrow)"/>
+<rect x="755" y="205" width="170" height="74" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="840" y="250.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="840" dy="0">Waste</tspan></text>
+<path d="M 840 281 L 668.0488146583365 358.2158153043697" fill="none" stroke="#52666d" stroke-width="5" marker-end="url(#arrow)"/>
+<rect x="975" y="220" width="170" height="74" rx="16" fill="#ffffff" stroke="#0b5261" stroke-width="3"/>
+<text x="1060" y="251" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="1060" dy="0">Cleaning</tspan><tspan x="1060" dy="29">tools</tspan></text>
+<path d="M 1060 296 L 674.7328359587186 378.61398981503766" fill="none" stroke="#52666d" stroke-width="5" marker-end="url(#arrow)"/>
+<rect x="975" y="430" width="170" height="74" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="1060" y="475.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#132a31"><tspan x="1060" dy="0">Money</tspan></text>
+<path d="M 1060 506 L 674.6478211859607 421.77869906332336" fill="none" stroke="#52666d" stroke-width="5" marker-end="url(#arrow)"/>
+<rect x="32" y="455" width="230" height="100" rx="16" fill="#eef8f2" stroke="#17663e" stroke-width="3"/>
+<text x="147" y="498.68" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="700" fill="#132a31"><tspan x="147" dy="0">READY-TO-EAT</tspan><tspan x="147" dy="31">FOOD</tspan></text>
+<path d="M 485 435 L 270 493" fill="none" stroke="#8a3a2a" stroke-width="5" marker-end="url(#arrow)"/>
+<rect x="300" y="530" width="235" height="44" rx="24" fill="#e5f1f2" stroke="#17663e" stroke-width="3"/>
+<text x="417.5" y="560.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="417.5" dy="0">WASH + DRY</tspan></text>
+<rect x="560" y="530" width="235" height="44" rx="24" fill="#e5f1f2" stroke="#17663e" stroke-width="3"/>
+<text x="677.5" y="560.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="677.5" dy="0">CHANGE GLOVES</tspan></text>
+<rect x="300" y="585" width="235" height="44" rx="24" fill="#e5f1f2" stroke="#17663e" stroke-width="3"/>
+<text x="417.5" y="615.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="417.5" dy="0">REPLACE TOOL</tspan></text>
+<rect x="560" y="585" width="235" height="44" rx="24" fill="#e5f1f2" stroke="#17663e" stroke-width="3"/>
+<text x="677.5" y="615.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="677.5" dy="0">SEPARATE ZONE</tspan></text>
+<text x="420" y="508.5" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#17663e"><tspan x="420" dy="0">CONTROL BREAKS</tspan></text>
+<path d="M 28 660 L 1172 660" fill="none" stroke="#8da8ad" stroke-width="2"/>
+<text x="1165" y="686.16" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#52666d"><tspan x="1165" dy="0">TASK-1 · MODULE 05 · INSTRUCTIONAL VISUAL</tspan></text>
+</svg>

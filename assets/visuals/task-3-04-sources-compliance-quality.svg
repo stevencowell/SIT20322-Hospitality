@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="task-3-04-sources-compliance-quality-title task-3-04-sources-compliance-quality-desc" data-layout="source-quality">
+<title id="task-3-04-sources-compliance-quality-title">Sources, compliance and quality</title>
+<desc id="task-3-04-sources-compliance-quality-desc">Hospitality source router testing authority, currency, jurisdiction, relevance and traceability before information enters a quality loop of standard, observation, authorised action and follow-up. A fictional workplace question enters a source router with lanes for regulator, industry or research, training, supplier or experienced person, and workplace procedure. Each lane passes through authority, currency, jurisdiction, relevance and traceability gates before joining a quality loop of standard, observation, authorised action and check-back.</desc>
+<defs><marker id="arrow" markerUnits="userSpaceOnUse" viewBox="0 0 14 10" refX="13" refY="5" markerWidth="14" markerHeight="10" orient="auto-start-reverse"><path d="M 0 0 L 14 5 L 0 10 Z" fill="#52666d" stroke="none"/></marker></defs>
+<rect x="0" y="0" width="1200" height="700" rx="0" fill="#eef6f6" stroke="#eef6f6" stroke-width="0"/>
+<rect x="0" y="0" width="1200" height="100" rx="0" fill="#073d48" stroke="#073d48" stroke-width="0"/>
+<text x="40" y="62.92" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="38" font-weight="800" fill="#ffffff"><tspan x="40" dy="0">Sources, compliance and quality</tspan></text>
+<circle cx="55" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="55" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="55" dy="0">1</tspan></text>
+<rect x="82" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="245" y="141.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="245" dy="0">Sources carry different</tspan><tspan x="245" dy="28">authority</tspan></text>
+<circle cx="445" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="445" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="445" dy="0">2</tspan></text>
+<rect x="472" y="115" width="326" height="64" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="635" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="635" dy="0">Test five source features</tspan></text>
+<circle cx="835" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="835" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="835" dy="0">3</tspan></text>
+<rect x="862" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="1025" y="141.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="1025" dy="0">Give sources different</tspan><tspan x="1025" dy="28">jobs</tspan></text>
+<rect x="20" y="200" width="230" height="60" rx="16" fill="#073d48" stroke="#073d48" stroke-width="3"/>
+<text x="135" y="238.84" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#ffffff"><tspan x="135" dy="0">WORK QUESTION</tspan></text>
+<text x="610" y="210.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#2d6980"><tspan x="610" dy="0">AUTHORITY · CURRENT · AREA · RELEVANT · TRACEABLE</tspan></text>
+<rect x="280" y="220" width="120" height="48" rx="5" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="340" y="252.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="340" dy="0">AUTH</tspan></text>
+<rect x="412" y="220" width="120" height="48" rx="5" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="472" y="252.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="472" dy="0">DATE</tspan></text>
+<rect x="544" y="220" width="120" height="48" rx="5" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="604" y="252.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="604" dy="0">AREA</tspan></text>
+<rect x="676" y="220" width="120" height="48" rx="5" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="736" y="252.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="736" dy="0">FIT</tspan></text>
+<rect x="808" y="220" width="120" height="48" rx="5" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="868" y="252.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="868" dy="0">TRACE</tspan></text>
+<rect x="20" y="278" width="230" height="58" rx="24" fill="#e5f1f2" stroke="#0b5261" stroke-width="3"/>
+<text x="135" y="315.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="135" dy="0">REGULATOR</tspan></text>
+<circle cx="340" cy="307" r="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<path d="M 333 307 L 339 314 L 349 299" fill="none" stroke="#17663e" stroke-width="3"/>
+<circle cx="472" cy="307" r="16" fill="#ffffff" stroke="#17663e" stroke-width="3"/>
+<path d="M 465 307 L 471 314 L 481 299" fill="none" stroke="#17663e" stroke-width="3"/>
+<circle cx="604" cy="307" r="16" fill="#ffffff" stroke="#17663e" stroke-width="3"/>
+<path d="M 597 307 L 603 314 L 613 299" fill="none" stroke="#17663e" stroke-width="3"/>
+<circle cx="736" cy="307" r="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<path d="M 729 307 L 735 314 L 745 299" fill="none" stroke="#17663e" stroke-width="3"/>
+<circle cx="868" cy="307" r="16" fill="#ffffff" stroke="#17663e" stroke-width="3"/>
+<path d="M 861 307 L 867 314 L 877 299" fill="none" stroke="#17663e" stroke-width="3"/>
+<rect x="20" y="340" width="230" height="58" rx="24" fill="#ffffff" stroke="#0b5261" stroke-width="3"/>
+<text x="135" y="377.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="135" dy="0">INDUSTRY INFO</tspan></text>
+<circle cx="340" cy="369" r="16" fill="#ffffff" stroke="#17663e" stroke-width="3"/>
+<path d="M 333 369 L 339 376 L 349 361" fill="none" stroke="#17663e" stroke-width="3"/>
+<circle cx="472" cy="369" r="16" fill="#ffffff" stroke="#17663e" stroke-width="3"/>
+<path d="M 465 369 L 471 376 L 481 361" fill="none" stroke="#17663e" stroke-width="3"/>
+<circle cx="604" cy="369" r="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<path d="M 597 369 L 603 376 L 613 361" fill="none" stroke="#17663e" stroke-width="3"/>
+<circle cx="736" cy="369" r="16" fill="#ffffff" stroke="#17663e" stroke-width="3"/>
+<path d="M 729 369 L 735 376 L 745 361" fill="none" stroke="#17663e" stroke-width="3"/>
+<circle cx="868" cy="369" r="16" fill="#ffffff" stroke="#17663e" stroke-width="3"/>
+<path d="M 861 369 L 867 376 L 877 361" fill="none" stroke="#17663e" stroke-width="3"/>
+<rect x="20" y="402" width="230" height="58" rx="24" fill="#e5f1f2" stroke="#0b5261" stroke-width="3"/>
+<text x="135" y="439.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="135" dy="0">TRAINING INFO</tspan></text>
+<circle cx="340" cy="431" r="16" fill="#ffffff" stroke="#17663e" stroke-width="3"/>
+<path d="M 333 431 L 339 438 L 349 423" fill="none" stroke="#17663e" stroke-width="3"/>
+<circle cx="472" cy="431" r="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<path d="M 465 431 L 471 438 L 481 423" fill="none" stroke="#17663e" stroke-width="3"/>
+<circle cx="604" cy="431" r="16" fill="#ffffff" stroke="#17663e" stroke-width="3"/>
+<path d="M 597 431 L 603 438 L 613 423" fill="none" stroke="#17663e" stroke-width="3"/>
+<circle cx="736" cy="431" r="16" fill="#ffffff" stroke="#17663e" stroke-width="3"/>
+<path d="M 729 431 L 735 438 L 745 423" fill="none" stroke="#17663e" stroke-width="3"/>
+<circle cx="868" cy="431" r="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<path d="M 861 431 L 867 438 L 877 423" fill="none" stroke="#17663e" stroke-width="3"/>
+<rect x="20" y="464" width="230" height="58" rx="24" fill="#ffffff" stroke="#0b5261" stroke-width="3"/>
+<text x="135" y="501.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="135" dy="0">WORKER SOURCE</tspan></text>
+<circle cx="340" cy="493" r="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<path d="M 333 493 L 339 500 L 349 485" fill="none" stroke="#17663e" stroke-width="3"/>
+<circle cx="472" cy="493" r="16" fill="#ffffff" stroke="#17663e" stroke-width="3"/>
+<path d="M 465 493 L 471 500 L 481 485" fill="none" stroke="#17663e" stroke-width="3"/>
+<circle cx="604" cy="493" r="16" fill="#ffffff" stroke="#17663e" stroke-width="3"/>
+<path d="M 597 493 L 603 500 L 613 485" fill="none" stroke="#17663e" stroke-width="3"/>
+<circle cx="736" cy="493" r="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<path d="M 729 493 L 735 500 L 745 485" fill="none" stroke="#17663e" stroke-width="3"/>
+<circle cx="868" cy="493" r="16" fill="#ffffff" stroke="#17663e" stroke-width="3"/>
+<path d="M 861 493 L 867 500 L 877 485" fill="none" stroke="#17663e" stroke-width="3"/>
+<rect x="20" y="526" width="230" height="58" rx="24" fill="#e5f1f2" stroke="#0b5261" stroke-width="3"/>
+<text x="135" y="563.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="135" dy="0">PROCEDURE</tspan></text>
+<circle cx="340" cy="555" r="16" fill="#ffffff" stroke="#17663e" stroke-width="3"/>
+<path d="M 333 555 L 339 562 L 349 547" fill="none" stroke="#17663e" stroke-width="3"/>
+<circle cx="472" cy="555" r="16" fill="#ffffff" stroke="#17663e" stroke-width="3"/>
+<path d="M 465 555 L 471 562 L 481 547" fill="none" stroke="#17663e" stroke-width="3"/>
+<circle cx="604" cy="555" r="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<path d="M 597 555 L 603 562 L 613 547" fill="none" stroke="#17663e" stroke-width="3"/>
+<circle cx="736" cy="555" r="16" fill="#ffffff" stroke="#17663e" stroke-width="3"/>
+<path d="M 729 555 L 735 562 L 745 547" fill="none" stroke="#17663e" stroke-width="3"/>
+<circle cx="868" cy="555" r="16" fill="#ffffff" stroke="#17663e" stroke-width="3"/>
+<path d="M 861 555 L 867 562 L 877 547" fill="none" stroke="#17663e" stroke-width="3"/>
+<rect x="965" y="200" width="215" height="78" rx="16" fill="#fbe9e4" stroke="#8a3a2a" stroke-width="3"/>
+<text x="1072.5" y="233.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="1072.5" dy="0">LEGAL ADVICE?</tspan><tspan x="1072.5" dy="28">STOP + REFER</tspan></text>
+<rect x="310" y="590" width="195" height="64" rx="24" fill="#e5f1f2" stroke="#17663e" stroke-width="3"/>
+<text x="407.5" y="630.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="407.5" dy="0">STANDARD</tspan></text>
+<path d="M 508 622 L 522 622" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="525" y="590" width="195" height="64" rx="24" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="622.5" y="630.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="622.5" dy="0">OBSERVE</tspan></text>
+<path d="M 723 622 L 737 622" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="740" y="590" width="195" height="64" rx="24" fill="#e5f1f2" stroke="#17663e" stroke-width="3"/>
+<text x="837.5" y="616.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="837.5" dy="0">AUTHORISED</tspan><tspan x="837.5" dy="28">ACTION</tspan></text>
+<path d="M 938 622 L 952 622" fill="none" stroke="#52666d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="955" y="590" width="195" height="64" rx="24" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="1052.5" y="630.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="1052.5" dy="0">CHECK BACK</tspan></text>
+<path d="M 28 660 L 1172 660" fill="none" stroke="#8da8ad" stroke-width="2"/>
+<text x="1165" y="686.16" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#52666d"><tspan x="1165" dy="0">TASK-3 · MODULE 04 · INSTRUCTIONAL VISUAL</tspan></text>
+</svg>

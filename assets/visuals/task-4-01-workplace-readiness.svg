@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="task-4-01-workplace-readiness-title task-4-01-workplace-readiness-desc" data-layout="station-readiness">
+<title id="task-4-01-workplace-readiness-title">Workplace readiness: prepare the whole service system</title>
+<desc id="task-4-01-workplace-readiness-desc">Annotated beverage station showing current service information, clear access, protected ingredients, clean serviceware, an equipment check and a shortage that must be reported before service. A privacy-safe beverage station viewed at useful working scale with numbered callouts for people and access, information, ingredients, serviceware, equipment condition, hygiene controls and reporting points.</desc>
+<defs><marker id="arrow" markerUnits="userSpaceOnUse" viewBox="0 0 14 10" refX="13" refY="5" markerWidth="14" markerHeight="10" orient="auto-start-reverse"><path d="M 0 0 L 14 5 L 0 10 Z" fill="#52666d" stroke="none"/></marker></defs>
+<rect x="0" y="0" width="1200" height="700" rx="0" fill="#eef6f6" stroke="#eef6f6" stroke-width="0"/>
+<rect x="0" y="0" width="1200" height="100" rx="0" fill="#073d48" stroke="#073d48" stroke-width="0"/>
+<text x="40" y="62.92" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="38" font-weight="800" fill="#ffffff"><tspan x="40" dy="0">Workplace readiness: prepare the whole service system</tspan></text>
+<circle cx="55" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="55" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="55" dy="0">1</tspan></text>
+<rect x="82" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="245" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="245" dy="0">Service is one system</tspan></text>
+<circle cx="445" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="445" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="445" dy="0">2</tspan></text>
+<rect x="472" y="115" width="326" height="64" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="635" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="635" dy="0">Use current information</tspan></text>
+<circle cx="835" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="835" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="835" dy="0">3</tspan></text>
+<rect x="862" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="1025" y="141.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="1025" dy="0">Know role + reporting</tspan><tspan x="1025" dy="28">line</tspan></text>
+<rect x="35" y="220" width="790" height="360" rx="24" fill="#ffffff" stroke="#0b5261" stroke-width="5"/>
+<text x="430" y="259.52" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="700" fill="#132a31"><tspan x="430" dy="0">SERVICE STATION — TOP VIEW</tspan></text>
+<rect x="65" y="295" width="165" height="140" rx="12" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<path d="M 110 313 H 177 V 367 H 110 Z" fill="#ffffff" stroke="#2d6980" stroke-width="3"/>
+<path d="M 120 332 L 165 332" fill="none" stroke="#8da8ad" stroke-width="3"/>
+<path d="M 120 348 L 160 348" fill="none" stroke="#8da8ad" stroke-width="3"/>
+<text x="147" y="400.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="147" dy="0">BRIEF +</tspan><tspan x="147" dy="28">RECIPE</tspan></text>
+<rect x="250" y="295" width="165" height="140" rx="12" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<path d="M 298 307 H 362 L 354 365 Q 330 377 306 365 Z" fill="#ffffff" stroke="#0b5261" stroke-width="4"/>
+<path d="M 362 319 C 390 315 390 355 360 352" fill="none" stroke="#0b5261" stroke-width="4"/>
+<path d="M 294 379 L 376 379" fill="none" stroke="#0b5261" stroke-width="4"/>
+<text x="332" y="400.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="332" dy="0">CLEAN</tspan><tspan x="332" dy="28">WARE</tspan></text>
+<rect x="435" y="295" width="165" height="140" rx="12" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<rect x="477" y="320" width="70" height="55" rx="8" fill="#fff5d8" stroke="#17663e" stroke-width="3"/>
+<path d="M 477 320 Q 513 297 547 320" fill="none" stroke="#17663e" stroke-width="4"/>
+<text x="517" y="400.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="517" dy="0">PROTECTED</tspan><tspan x="517" dy="28">FOOD</tspan></text>
+<rect x="620" y="295" width="165" height="140" rx="12" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<rect x="655" y="315" width="85" height="58" rx="8" fill="#ffffff" stroke="#2d6980" stroke-width="3"/>
+<circle cx="697" cy="344" r="18" fill="#e5f1f2" stroke="#2d6980" stroke-width="4"/>
+<text x="702" y="400.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="702" dy="0">EQUIPMENT</tspan><tspan x="702" dy="28">CHECK</tspan></text>
+<path d="M 90 520 H 410" fill="none" stroke="#17663e" stroke-width="14" marker-end="url(#arrow)"/>
+<text x="250" y="496.84" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#17663e"><tspan x="250" dy="0">CLEAR ACCESS</tspan></text>
+<rect x="475" y="490" width="82" height="52" rx="4" fill="#fbe9e4" stroke="#8a3a2a" stroke-width="3"/>
+<path d="M 483 498 L 549 534" fill="none" stroke="#8a3a2a" stroke-width="5"/>
+<path d="M 549 498 L 483 534" fill="none" stroke="#8a3a2a" stroke-width="5"/>
+<text x="685" y="524.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#8a3a2a"><tspan x="685" dy="0">BLOCKED ACCESS</tspan></text>
+<rect x="875" y="245" width="280" height="74" rx="16" fill="#ffffff" stroke="#0b5261" stroke-width="3"/>
+<text x="1015" y="290.84" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#132a31"><tspan x="1015" dy="0">SHORTAGE</tspan></text>
+<circle cx="899" cy="237" r="19" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="899" y="245.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="899" dy="0">1</tspan></text>
+<path d="M 1015 324 L 1015 361" fill="none" stroke="#52666d" stroke-width="5" marker-end="url(#arrow)"/>
+<rect x="875" y="369" width="280" height="74" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="1015" y="414.84" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#132a31"><tspan x="1015" dy="0">REPORT</tspan></text>
+<circle cx="899" cy="361" r="19" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="899" y="369.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="899" dy="0">2</tspan></text>
+<path d="M 1015 448 L 1015 485" fill="none" stroke="#52666d" stroke-width="5" marker-end="url(#arrow)"/>
+<rect x="875" y="493" width="280" height="74" rx="16" fill="#ffffff" stroke="#0b5261" stroke-width="3"/>
+<text x="1015" y="538.84" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#132a31"><tspan x="1015" dy="0">CONFIRM OWNER</tspan></text>
+<circle cx="899" cy="485" r="19" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="899" y="493.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="899" dy="0">3</tspan></text>
+<path d="M 28 660 L 1172 660" fill="none" stroke="#8da8ad" stroke-width="2"/>
+<text x="1165" y="686.16" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#52666d"><tspan x="1165" dy="0">TASK-4 · MODULE 01 · INSTRUCTIONAL VISUAL</tspan></text>
+</svg>

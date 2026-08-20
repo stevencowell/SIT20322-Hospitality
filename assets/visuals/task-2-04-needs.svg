@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="task-2-04-needs-title task-2-04-needs-desc" data-layout="question-funnel">
+<title id="task-2-04-needs-title">Match needs and wants through questions</title>
+<desc id="task-2-04-needs-desc">Six-step customer-needs funnel moves from an open request to a verified product or service match and confirmation. A customer statement enters a funnel; open question, focused question, need/want/constraint sort, authorised information check, matched option and confirmation appear in sequence.</desc>
+<defs><marker id="arrow" markerUnits="userSpaceOnUse" viewBox="0 0 14 10" refX="13" refY="5" markerWidth="14" markerHeight="10" orient="auto-start-reverse"><path d="M 0 0 L 14 5 L 0 10 Z" fill="#52666d" stroke="none"/></marker></defs>
+<rect x="0" y="0" width="1200" height="700" rx="0" fill="#eef6f6" stroke="#eef6f6" stroke-width="0"/>
+<rect x="0" y="0" width="1200" height="100" rx="0" fill="#073d48" stroke="#073d48" stroke-width="0"/>
+<text x="40" y="62.92" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="38" font-weight="800" fill="#ffffff"><tspan x="40" dy="0">Match needs and wants through questions</tspan></text>
+<circle cx="55" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="55" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="55" dy="0">1</tspan></text>
+<rect x="82" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="245" y="141.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="245" dy="0">Sort need, want +</tspan><tspan x="245" dy="28">constraint</tspan></text>
+<circle cx="445" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="445" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="445" dy="0">2</tspan></text>
+<rect x="472" y="115" width="326" height="64" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="635" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="635" dy="0">Use six matching steps</tspan></text>
+<circle cx="835" cy="147" r="20" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="835" y="155.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="835" dy="0">3</tspan></text>
+<rect x="862" y="115" width="326" height="64" rx="16" fill="#e5f1f2" stroke="#8da8ad" stroke-width="3"/>
+<text x="1025" y="141.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="1025" dy="0">Ask open + focused</tspan><tspan x="1025" dy="28">questions</tspan></text>
+<rect x="40" y="205" width="1120" height="70" rx="16" fill="#fff5d8" stroke="#d9ab3d" stroke-width="3"/>
+<text x="600" y="249.52" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="700" fill="#132a31"><tspan x="600" dy="0">“Something quick, vegetarian and not too spicy.”</tspan></text>
+<rect x="60" y="288" width="1080" height="50" rx="7" fill="#e5f1f2" stroke="#0b5261" stroke-width="3"/>
+<circle cx="84" cy="313" r="17" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="84" y="321.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="84" dy="0">1</tspan></text>
+<text x="118" y="321.16" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="118" dy="0">INVITE</tspan></text>
+<text x="535.2" y="321.16" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#132a31"><tspan x="535.2" dy="0">How can I help?</tspan></text>
+<rect x="120" y="345" width="960" height="50" rx="7" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<circle cx="144" cy="370" r="17" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="144" y="378.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="144" dy="0">2</tspan></text>
+<text x="178" y="378.16" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="178" dy="0">ASK + LISTEN</tspan></text>
+<text x="542.4" y="378.16" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#132a31"><tspan x="542.4" dy="0">What matters most?</tspan></text>
+<rect x="180" y="402" width="840" height="50" rx="7" fill="#e5f1f2" stroke="#0b5261" stroke-width="3"/>
+<circle cx="204" cy="427" r="17" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="204" y="435.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="204" dy="0">3</tspan></text>
+<text x="238" y="435.16" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="238" dy="0">SORT</tspan></text>
+<text x="549.6" y="435.16" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#132a31"><tspan x="549.6" dy="0">Need / want / constraint</tspan></text>
+<rect x="240" y="459" width="720" height="50" rx="7" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<circle cx="264" cy="484" r="17" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="264" y="492.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="264" dy="0">4</tspan></text>
+<text x="298" y="492.16" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="298" dy="0">CHECK</tspan></text>
+<text x="556.8" y="492.16" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#132a31"><tspan x="556.8" dy="0">Use current information</tspan></text>
+<rect x="300" y="516" width="600" height="50" rx="7" fill="#e5f1f2" stroke="#0b5261" stroke-width="3"/>
+<circle cx="324" cy="541" r="17" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="324" y="549.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="324" dy="0">5</tspan></text>
+<text x="358" y="549.16" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="358" dy="0">OFFER</tspan></text>
+<text x="564" y="549.16" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#132a31"><tspan x="564" dy="0">One suitable option</tspan></text>
+<rect x="360" y="573" width="480" height="50" rx="7" fill="#ffffff" stroke="#8da8ad" stroke-width="3"/>
+<circle cx="384" cy="598" r="17" fill="#d9ab3d" stroke="#073d48" stroke-width="2"/>
+<text x="384" y="606.16" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="900" fill="#132a31"><tspan x="384" dy="0">6</tspan></text>
+<text x="418" y="606.16" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#132a31"><tspan x="418" dy="0">CONFIRM</tspan></text>
+<text x="605" y="606.16" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#132a31"><tspan x="605" dy="0">Request met?</tspan></text>
+<path d="M 28 660 L 1172 660" fill="none" stroke="#8da8ad" stroke-width="2"/>
+<text x="1165" y="686.16" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#52666d"><tspan x="1165" dy="0">TASK-2 · MODULE 04 · INSTRUCTIONAL VISUAL</tspan></text>
+</svg>

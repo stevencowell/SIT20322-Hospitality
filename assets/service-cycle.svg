@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" role="img" aria-labelledby="title desc">
+  <title id="title">Customer service cycle</title>
+  <desc id="desc">A five-step cycle: welcome, identify needs, deliver service, check satisfaction, respond and improve.</desc>
+  <rect width="900" height="360" rx="22" fill="#f7fbfb"/>
+  <g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle">
+    <circle cx="450" cy="180" r="74" fill="#0b5261"/>
+    <text x="450" y="173" font-size="24" font-weight="800" fill="#fff">Respectful</text>
+    <text x="450" y="203" font-size="24" font-weight="800" fill="#fff">service</text>
+    <g fill="#fff" stroke="#177081" stroke-width="3">
+      <rect x="60" y="55" width="178" height="70" rx="14"/>
+      <rect x="360" y="24" width="180" height="70" rx="14"/>
+      <rect x="662" y="55" width="178" height="70" rx="14"/>
+      <rect x="610" y="260" width="220" height="70" rx="14"/>
+      <rect x="70" y="260" width="220" height="70" rx="14"/>
+    </g>
+    <g font-size="18" font-weight="700" fill="#073d48">
+      <text x="149" y="87">1. Welcome</text><text x="149" y="111">professionally</text>
+      <text x="450" y="56">2. Identify</text><text x="450" y="80">customer needs</text>
+      <text x="751" y="87">3. Deliver</text><text x="751" y="111">the service</text>
+      <text x="720" y="292">4. Check</text><text x="720" y="316">satisfaction</text>
+      <text x="180" y="292">5. Respond</text><text x="180" y="316">and improve</text>
+    </g>
+    <g fill="none" stroke="#d6a83b" stroke-width="8" stroke-linecap="round">
+      <path d="M240 72Q300 32 350 52"/><path d="M550 52q60-20 105 20"/><path d="M807 136q36 58-8 112"/><path d="M600 307q-150 62-300 0"/><path d="M101 248q-44-58-8-112"/>
+    </g>
+  </g>
+</svg>
