@@ -325,10 +325,16 @@ th { color: var(--teal-dark); background: #eaf3f4; }
 .lesson-orientation article { padding: 18px; border: 1px solid var(--line); border-radius: 13px; background: #fff; }
 .lesson-orientation p, .lesson-orientation ul { margin-bottom: 0; }
 .lesson-reading { width: min(900px,100%); margin: 28px auto; }
-.teaching-block { scroll-margin-top: 90px; margin: 18px 0; padding: clamp(23px,4vw,38px); border: 1px solid var(--line); border-radius: 17px; background: #fff; box-shadow: 0 7px 22px rgba(20,42,50,.07); }
-.teaching-block-heading { display: grid; grid-template-columns: 46px 1fr; gap: 13px; align-items: center; }
+.teaching-block { display: flow-root; scroll-margin-top: 90px; margin: 18px 0; padding: clamp(23px,4vw,38px); border: 1px solid var(--line); border-radius: 17px; background: #fff; box-shadow: 0 7px 22px rgba(20,42,50,.07); }
+.teaching-block-heading { display: grid; grid-template-columns: 46px 1fr; gap: 13px; align-items: center; margin-bottom: 18px; }
 .teaching-block-heading > span { width: 42px; height: 42px; display: grid; place-items: center; border-radius: 12px; color: #fff; background: var(--teal); font-weight: 900; }
 .teaching-block h2 { margin: 0; color: var(--teal-dark); line-height: 1.15; }
+.theory-section-visual { width: clamp(260px,36%,340px); margin-top: 2px; padding: 0; overflow: hidden; border: 1px solid #b9ced2; border-radius: 14px; background: var(--wash); box-shadow: 0 6px 18px rgba(20,42,50,.10); }
+.theory-section-visual--right { float: right; margin-right: 0; margin-bottom: 16px; margin-left: 24px; }
+.theory-section-visual--left { float: left; margin-right: 24px; margin-bottom: 16px; margin-left: 0; }
+.theory-section-visual img { width: 100%; max-width: none; height: auto; margin: 0; border-radius: 0; object-fit: contain; background: #edf5f5; }
+.theory-section-visual figcaption { max-width: none; margin: 0; padding: 11px 13px 12px; color: var(--ink); background: #fff; font-size: .82rem; line-height: 1.48; text-align: left; }
+.theory-section-visual figcaption a { min-height: 44px; display: inline-flex; align-items: center; margin: 2px 0 -8px; white-space: nowrap; }
 .teaching-extra, .worked-example { margin-top: 16px; padding: 16px 18px; border-radius: 11px; background: var(--teal-soft); }
 .worked-example { border-left: 4px solid var(--gold); background: var(--gold-soft); }
 .worked-example > div { margin: 5px 0; }
@@ -495,6 +501,8 @@ th { color: var(--teal-dark); background: #eaf3f4; }
   .visual-scroll-hint { display: block; margin: 0 0 10px; color: var(--muted); font-size: .88rem; font-weight: 700; text-align: center; }
   .lesson-visual-scroll { max-width: 100%; overflow-x: auto; overscroll-behavior-inline: contain; scrollbar-gutter: stable; }
   .lesson-visual-scroll img { width: 700px; max-width: none; margin: 0; }
+  .theory-section-visual, .theory-section-visual--left, .theory-section-visual--right { float: none; width: 100%; max-width: none; margin: 0 0 20px; }
+  .theory-section-visual figcaption { padding: 12px 14px; font-size: .88rem; }
 }
 
 @media (max-width: 520px) {
@@ -551,6 +559,9 @@ th { color: var(--teal-dark); background: #eaf3f4; }
   .toolkit-print-page .site-header, .toolkit-print-page .site-footer { display: none !important; }
   .toolkit-print-main, .printable-main { width: 100%; margin: 0; }
   .toolkit-cover, .toolkit-sheet { min-height: 0; }
+  .teaching-block { break-inside: auto; box-shadow: none; }
+  .theory-section-visual { width: 32%; max-width: 70mm; break-inside: avoid; box-shadow: none; }
+  .theory-section-visual figcaption { font-size: 8.5pt; }
   .toolkit-sheet { break-before: page; }
   .toolkit-cover { break-after: page; }
   .printable-table th, .printable-table td { padding: 7px; font-size: 9.5pt; }

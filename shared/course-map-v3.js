@@ -1,5 +1,5 @@
 window.HOSPITALITY_COURSE_MAP = {
-  "version": "3.0.0",
+  "version": "3.1.0",
   "tasks": {
     "task-1": {
       "id": "task-1",
